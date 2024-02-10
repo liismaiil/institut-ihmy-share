@@ -20,7 +20,7 @@ ENV LIISMAIIL_SITE http://localhost:3001
 ENV VERSION 1
 
 LABEL project="liismaiil@liismaiil.org"
-LABEL VERSION="O.1"
+LABEL VERSION="0.1"
 
 WORKDIR /app
 

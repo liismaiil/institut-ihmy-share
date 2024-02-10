@@ -23,17 +23,13 @@ const navigation = [
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Ihkam',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
-      {
-        title: 'Predictive data generation',
-        href: '/docs/predictive-data-generation',
-      },
+      { title: '3akida', href: '/docs/3akida' },
+      { title: 'Tahsin al fikri', href: '/docs/tahsin-al-fikri' },
+      { title: 'Osoul al Fiqh', href: '/docs/osoul-al-fikh' },
+      { title: 'Anahwo', href: '/docs/anahwo' },
+     
     ],
   },
   {

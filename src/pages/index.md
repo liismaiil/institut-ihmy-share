@@ -23,7 +23,7 @@ The programming exercises are made in order to modify the displayed cards and ay
 
 ### Adding the page in your space  
 
-we create file in pages dorectory with the token name 
+we create file in pages directory with the token name  
 
 ```shell
 get github repository 

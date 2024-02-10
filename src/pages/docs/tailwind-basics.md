@@ -28,11 +28,11 @@ We are using that library to get a well known and more documentedt and shared li
 - bg-gradient-to-r bg-black/60 'opacity'
 
 ### margin , padding, border, rounded
-- -mb-6 negatif margin🧮
+- -mb-6 negatif margin🧮 &#128513; &#128514;
 
 - mx-5 my-4
 
-- modify the thikness 😋  : border border-b-5 border-blue 👳‍♀️ 
+- modify the thikness   : border border-b-5 border-blue 👳‍♀️ 
 
 - rounded-sm rounded-full
 
