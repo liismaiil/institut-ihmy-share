@@ -87,7 +87,6 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat5-12.png " cours 5")
 ![cours](/images/3akida/darat5-13.png " cours 5")
 ![cours](/images/3akida/darat5-14.png " cours 5")
-![cours](/images/3akida/darat5-15.png " cours 5")
 
 
 ## Cours 6

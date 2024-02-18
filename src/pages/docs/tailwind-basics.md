@@ -19,7 +19,7 @@ We are using that library to get a well known and more documentedt and shared li
 ### width, height, background color
 - w-4 h-5/2 , h-screen w-[200px]
 
-- some bg examples 👍
+- some bg examples 👍 
 
 - bg-emerald-300, bg-[url('https://   ...jpg')] 
 
@@ -27,19 +27,22 @@ We are using that library to get a well known and more documentedt and shared li
 
 - bg-gradient-to-r bg-black/60 'opacity'
 
+- idea a layout on/off for space-2
+
+- h-[200px] 
 ### margin , padding, border, rounded
 - -mb-6 negatif margin🧮 &#128513; &#128514;
 
 - mx-5 my-4
 
-- modify the thikness   : border border-b-5 border-blue 👳‍♀️ 
+- [border] modify the thikness   : border border-b-5 border-blue 👳‍♀️ 
 
 - rounded-sm rounded-full
 
-### Effects on:  hover, focus, group
+### Effects  hover, focus, group
 
 - outline / outline-none 
--  with text input focus:text-blue-700
+- with text input focus:text-blue-700
 - hover:bg-transparent 
 - duration-30 transition-all 
 - group  is made to associate incloser elements with the same transition
@@ -67,12 +70,44 @@ We are using that library to get a well known and more documentedt and shared li
 ```
 
 ### responsive design
-- md:bg-blue-200 lg:bg-purple 2xl 
+- break points  
 
----
+- transition-all duration-300 
 
+- md:bg-blue-200 lg:bg-purple 2xl
+
+
+
+```js
+# example changing color grids
+
+```
 ## Adding Icons from @heroicons
 - we can add className="material-icons" frm google and add  <span className="">span 
+- we can add @heroicons package 
+- for logo
+
+```js
+# we add uppercase to icon
+ # we add  between  icon and label 
+ <main className ="max-w-3xl mx-auto">   
+
+``` 
+- for the space 
+```js
+# we add to main space layout
+
+ className =""  
+``` 
+
+
+
+```js
+# example changing color grids
+ # we add  between  icon and label
+ className ="space-x-3" 
+
+``` 
 
 ### image postioning
  - object-cover

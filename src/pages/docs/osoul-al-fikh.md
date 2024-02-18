@@ -34,6 +34,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul3-4.png " cours  3")
 ![cours](/images/osoul/osoul3-5.png " cours  3")
 ![cours](/images/osoul/osoul3-6.png " cours  3")
+![cours](/images/osoul/osoul3-7.png " cours  3")
 ![cours](/images/osoul/osoul3-8.png " cours  3")
 ![cours](/images/osoul/osoul3-9.png " cours  3")
 ![cours](/images/osoul/osoul3-10.png " cours 3")
@@ -46,6 +47,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul4-4.png " cours  4")
 ![cours](/images/osoul/osoul4-5.png " cours  4")
 ![cours](/images/osoul/osoul4-6.png " cours  4")
+![cours](/images/osoul/osoul4-7.png " cours  4")
 ![cours](/images/osoul/osoul4-8.png " cours  4")
 
 ## Cours 5
@@ -55,6 +57,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul5-4.png " cours  5")
 ![cours](/images/osoul/osoul5-5.png " cours  5")
 ![cours](/images/osoul/osoul5-6.png " cours  5")
+![cours](/images/osoul/osoul5-7.png " cours  5")
 ![cours](/images/osoul/osoul5-8.png " cours  5")
 ![cours](/images/osoul/osoul5-9.png " cours  5")
 ![cours](/images/osoul/osoul5-10.png " cours 5")
@@ -62,8 +65,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul5-12.png " cours 5")
 ![cours](/images/osoul/osoul5-13.png " cours 5")
 ![cours](/images/osoul/osoul5-14.png " cours 5")
-![cours](/images/osoul/osoul5-15.png " cours 5")
-![cours](/images/osoul/osoul5-16.png " cours 5")
+
 
 
 
@@ -74,6 +76,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul6-4.png " cours  6")
 ![cours](/images/osoul/osoul6-5.png " cours  6")
 ![cours](/images/osoul/osoul6-6.png " cours  6")
+![cours](/images/osoul/osoul6-7.png " cours  6")
 ![cours](/images/osoul/osoul6-8.png " cours  6")
 ![cours](/images/osoul/osoul6-9.png " cours  6")
 ![cours](/images/osoul/osoul6-10.png " cours 6")
@@ -83,6 +86,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul6-14.png " cours 6")
 ![cours](/images/osoul/osoul6-15.png " cours 6")
 ![cours](/images/osoul/osoul6-16.png " cours 6")
+![cours](/images/osoul/osoul6-17.png " cours 6")
 
 
 ## Cours 7
@@ -92,6 +96,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul7-4.png " cours  7")
 ![cours](/images/osoul/osoul7-5.png " cours  7")
 ![cours](/images/osoul/osoul7-6.png " cours  7")
+![cours](/images/osoul/osoul7-7.png " cours  7")
 ![cours](/images/osoul/osoul7-8.png " cours  7")
 ![cours](/images/osoul/osoul7-9.png " cours  7")
 ![cours](/images/osoul/osoul7-10.png " cours 7")
@@ -100,8 +105,6 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul7-13.png " cours 7")
 ![cours](/images/osoul/osoul7-14.png " cours 7")
 ![cours](/images/osoul/osoul7-15.png " cours 7")
-![cours](/images/osoul/osoul7-16.png " cours 7")
-![cours](/images/osoul/osoul7-17.png " cours 7")
 
 
 
@@ -112,6 +115,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul8-4.png " cours  8")
 ![cours](/images/osoul/osoul8-5.png " cours  8")
 ![cours](/images/osoul/osoul8-6.png " cours  8")
+![cours](/images/osoul/osoul8-7.png " cours  8")
 ![cours](/images/osoul/osoul8-8.png " cours  8")
 ![cours](/images/osoul/osoul8-9.png " cours  8")
 ![cours](/images/osoul/osoul8-10.png " cours 8")

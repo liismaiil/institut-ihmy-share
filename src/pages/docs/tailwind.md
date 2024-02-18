@@ -1,11 +1,66 @@
 ---
-title: Architecture guide
-description: Quidem magni aut exercitationem maxime rerum eos.
+title: tailwind 
+description: tailwind basics and default style.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+## add fonts 
 
+we can add  next/font/google package to  
+Use the @tailwind directive to insert Tailwind’s base, components, utilities and variants styles into your CSS.
+
+``` js
+className="grid grid-cols-4 gap-1 bg-[url('/imge.png')] bg-contain" 
+
+```
 ---
+
+## manage responsive dosplay  
+
+we style our arrays to display as grids grid-cols-4 
+Use the @tailwind directive to insert Tailwind’s base, components, utilities and variants styles into your CSS.
+
+``` js
+className="grid grid-cols-4 gap-1 bg-[url('/imge.png')] bg-contain" 
+
+```
+---
+
+
+## grid 
+
+we style our arrays to display as grids grid-cols-4 
+Use the @tailwind directive to insert Tailwind’s base, components, utilities and variants styles into your CSS.
+
+``` js
+className="grid grid-cols-4 gap-1 bg-[url('/imge.png')] bg-contain" 
+
+```
+---
+
+## Apply directive 
+
+we add a layer to extend components styles
+Use the @tailwind directive to insert Tailwind’s base, components, utilities and variants styles into your CSS.
+
+``` js
+
+@layer components {
+  .btn-blue {
+    @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded;
+  }
+}
+
+@layer utilities {
+  .filter-none {
+    filter: none;
+  }
+  .filter-grayscale {
+    filter: grayscale(100%);
+  }
+}
+```
+---
+
 
 ## Quis vel iste dicta
 

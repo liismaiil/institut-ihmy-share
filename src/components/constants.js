@@ -1,34 +1,35 @@
 const navigation = [
   {
-    title: 'Introduction',
+    title: 'liismaiil project',
     links: [
       { title: 'Getting started', href: '/' },
+      { title: 'Liismaiil', href: '/docs/liismaiil' },
+      { title: 'tailwind', href: '/docs/tailwind' },
       { title: 'Space', href: '/docs/space' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'frameworks',
     links: [
       { title: 'Library basics', href: '/docs/tailwind-basics' },
-      {
-        title: 'Predicting user behavior',
-        href: '/docs/predicting-user-behavior',
-      },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
-      {
-        title: 'Introduction to string theory',
-        href: '/docs/introduction-to-string-theory',
-      },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
     ],
   },
   {
-    title: 'Ihkam',
+    title: 'Ihkam shares',
     links: [
       { title: '3akida', href: '/docs/3akida' },
       { title: 'Tahsin al fikri', href: '/docs/tahsin-al-fikri' },
       { title: 'Osoul al Fiqh', href: '/docs/osoul-al-fikh' },
       { title: 'Anahwo', href: '/docs/anahwo' },
+     
+    ],
+  },
+  {
+    title: 'Mydars shares',
+    links: [
+      { title: 'hadiths', href: '/docs/hadith' },
+      { title: 'al fikh al maliki first', href: '/docs/fikh-maliki-first' },
+      { title: 'al fikh al maliki second', href: '/docs/fikh-maliki-second' },
      
     ],
   },
