@@ -184,19 +184,12 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-13-17.png " cours 13")
 
 
-## باب الغسل Chapitre du ghousl
-![cours](/images/my/al-hadith/hadith-11-2.png " cours  11")
-![cours](/images/my/al-hadith/hadith-11-3.png " cours  11")
-![cours](/images/my/al-hadith/hadith-11-4.png " cours  11")
-![cours](/images/my/al-hadith/hadith-11-5.png " cours  11")
-![cours](/images/my/al-hadith/hadith-11-6.png " cours  11")
-![cours](/images/my/al-hadith/hadith-11-8.png " cours  11")
-![cours](/images/my/al-hadith/hadith-11-9.png " cours  11")
-![cours](/images/my/al-hadith/hadith-11-10.png " cours 11")
-![cours](/images/my/al-hadith/hadith-11-11.png " cours 11")
-![cours](/images/my/al-hadith/hadith-11-12.png " cours 11")
-![cours](/images/my/al-hadith/hadith-11-13.png " cours 11")
-![cours](/images/my/al-hadith/hadith-11-14.png " cours 11")
-![cours](/images/my/al-hadith/hadith-11-15.png " cours 11")
-![cours](/images/my/al-hadith/hadith-11-16.png " cours 11")
-![cours](/images/my/al-hadith/hadith-11-17.png " cours 11")
+## 18 la fréquentation du djounoub
+![cours](/images/my/al-hadith/hadith-18-0.png " cours  18")
+![cours](/images/my/al-hadith/hadith-18-1.png " cours  18")
+![cours](/images/my/al-hadith/hadith-18-2.png " cours  18")
+![cours](/images/my/al-hadith/hadith-18-3.png " cours  18")
+![cours](/images/my/al-hadith/hadith-18-4.png " cours  18")
+![cours](/images/my/al-hadith/hadith-18-5.png " cours  18")
+![cours](/images/my/al-hadith/hadith-18-6.png " cours  18")
+![cours](/images/my/al-hadith/hadith-18-7.png " cours  18")
