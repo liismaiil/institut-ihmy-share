@@ -107,6 +107,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo7-4.png " cours  7")
 ![cours](/images/nahwo/nahwo7-5.png " cours  7")
 ![cours](/images/nahwo/nahwo7-6.png " cours  7")
+![cours](/images/nahwo/nahwo7-7.png " cours  7")
 ![cours](/images/nahwo/nahwo7-8.png " cours  7")
 ![cours](/images/nahwo/nahwo7-9.png " cours  7")
 ![cours](/images/nahwo/nahwo7-10.png " cours 7")
@@ -124,6 +125,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-8-4.png " cours  8")
 ![cours](/images/nahwo/nahwo-8-5.png " cours  8")
 ![cours](/images/nahwo/nahwo-8-6.png " cours  8")
+![cours](/images/nahwo/nahwo-8-7.png " cours  8")
 ![cours](/images/nahwo/nahwo-8-8.png " cours  8")
 ![cours](/images/nahwo/nahwo-8-9.png " cours  8")
 ![cours](/images/nahwo/nahwo-8-10.png " cours 8")
@@ -134,6 +136,27 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-8-15.png " cours 8")
 ![cours](/images/nahwo/nahwo-8-16.png " cours 8")
 ![cours](/images/nahwo/nahwo-8-17.png " cours 8")
+![cours](/images/nahwo/nahwo-8-17.png " cours 8")
 
+## Cours 9
+![cours](/images/nahwo/nahwo-9-2.png " cours  9")
+![cours](/images/nahwo/nahwo-9-3.png " cours  9")
+![cours](/images/nahwo/nahwo-9-4.png " cours  9")
+![cours](/images/nahwo/nahwo-9-5.png " cours  9")
+![cours](/images/nahwo/nahwo-8-7.png " cours  8")
+
+![cours](/images/nahwo/nahwo-9-6.png " cours  9")
+![cours](/images/nahwo/nahwo-9-7.png " cours  9")
+![cours](/images/nahwo/nahwo-9-8.png " cours  9")
+![cours](/images/nahwo/nahwo-9-9.png " cours  9")
+![cours](/images/nahwo/nahwo-9-10.png " cours 9")
+![cours](/images/nahwo/nahwo-9-11.png " cours 9")
+![cours](/images/nahwo/nahwo-9-12.png " cours 9")
+![cours](/images/nahwo/nahwo-9-13.png " cours 9")
+![cours](/images/nahwo/nahwo-9-14.png " cours 9")
+![cours](/images/nahwo/nahwo-9-15.png " cours 9")
+![cours](/images/nahwo/nahwo-9-16.png " cours 9")
+![cours](/images/nahwo/nahwo-9-17.png " cours 9")
+![cours](/images/nahwo/nahwo-9-18.png " cours 9")
 
 

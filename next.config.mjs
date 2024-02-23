@@ -8,6 +8,7 @@ const nextConfig = {
   experimental: {
     scrollRestoration: true,
   },
+  output:'standalone',
    distDir: '.next',
 }
 
