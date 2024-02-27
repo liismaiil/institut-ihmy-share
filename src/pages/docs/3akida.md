@@ -5,7 +5,7 @@ description: Cours about foundations of dogme .
 ---
 
 ## Cours 1
-![cours](/images/3akida/darat1-0.png "cours 1")
+
 ![cours](/images/3akida/darat1-1.png "cours 1")
 ![cours](/images/3akida/darat1-2.png "cours 1")
 ![cours](/images/3akida/darat1-3.png "cours 1")
@@ -130,7 +130,6 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat7-18.png " cours 7")
 ![cours](/images/3akida/darat7-19.png " cours 7")
 
-
 ## Cours 8
 
 ![cours](/images/3akida/darat8-2.png " cours  8")
@@ -145,3 +144,52 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat8-11.png " cours 8")
 ![cours](/images/3akida/darat8-12.png " cours 8")
 ![cours](/images/3akida/darat8-13.png " cours 8")
+
+## Cours 9
+
+![cours](/images/3akida/darat-9-1.png " cours  9")
+![cours](/images/3akida/darat-9-2.png " cours  9")
+![cours](/images/3akida/darat-9-3.png " cours  9")
+![cours](/images/3akida/darat-9-4.png " cours  9")
+![cours](/images/3akida/darat-9-5.png " cours  9")
+![cours](/images/3akida/darat-9-6.png " cours  9")
+![cours](/images/3akida/darat-9-7.png " cours  9")
+![cours](/images/3akida/darat-9-8.png " cours  9")
+![cours](/images/3akida/darat-9-9.png " cours  9")
+![cours](/images/3akida/darat-9-10.png " cours 9")
+![cours](/images/3akida/darat-9-11.png " cours 9")
+![cours](/images/3akida/darat-9-12.png " cours 9")
+![cours](/images/3akida/darat-9-13.png " cours 9")
+![cours](/images/3akida/darat-9-14.png " cours 9")
+![cours](/images/3akida/darat-9-15.png " cours 9")
+![cours](/images/3akida/darat-9-16.png " cours 9")
+![cours](/images/3akida/darat-9-17.png " cours 9")
+![cours](/images/3akida/darat-9-18.png " cours 9")
+![cours](/images/3akida/darat-9-19.png " cours 9")
+![cours](/images/3akida/darat-9-20.png " cours 9")
+
+## Cours 10
+
+![cours](/images/3akida/darat-10-1.png " cours  10")
+![cours](/images/3akida/darat-10-2.png " cours  10")
+![cours](/images/3akida/darat-10-3.png " cours  10")
+![cours](/images/3akida/darat-10-4.png " cours  10")
+![cours](/images/3akida/darat-10-5.png " cours  10")
+![cours](/images/3akida/darat-10-6.png " cours  10")
+![cours](/images/3akida/darat-10-7.png " cours  10")
+![cours](/images/3akida/darat-10-8.png " cours  10")
+![cours](/images/3akida/darat-10-9.png " cours  10")
+![cours](/images/3akida/darat-10-10.png " cours 10")
+![cours](/images/3akida/darat-10-11.png " cours 10")
+![cours](/images/3akida/darat-10-12.png " cours 10")
+![cours](/images/3akida/darat-10-13.png " cours 10")
+![cours](/images/3akida/darat-10-11.png " cours 10")
+![cours](/images/3akida/darat-10-12.png " cours 10")
+![cours](/images/3akida/darat-10-13.png " cours 10")
+![cours](/images/3akida/darat-10-14.png " cours 10")
+![cours](/images/3akida/darat-10-15.png " cours 10")
+![cours](/images/3akida/darat-10-16.png " cours 10")
+![cours](/images/3akida/darat-10-17.png " cours 10")
+![cours](/images/3akida/darat-10-18.png " cours 10")
+![cours](/images/3akida/darat-10-19.png " cours 10")
+![cours](/images/3akida/darat-10-20.png " cours 10")
