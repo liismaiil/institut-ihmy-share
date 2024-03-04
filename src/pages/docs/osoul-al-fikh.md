@@ -147,3 +147,42 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-9-18.png " cours 9")
 ![cours](/images/osoul/osoul-9-19.png " cours 9")
 
+## Cours 10
+
+![cours](/images/osoul/osoul-10-1.png " cours  10")
+![cours](/images/osoul/osoul-10-2.png " cours  10")
+![cours](/images/osoul/osoul-10-3.png " cours  10")
+![cours](/images/osoul/osoul-10-4.png " cours  10")
+![cours](/images/osoul/osoul-10-5.png " cours  10")
+![cours](/images/osoul/osoul-10-6.png " cours  10")
+![cours](/images/osoul/osoul-10-7.png " cours  10")
+![cours](/images/osoul/osoul-10-8.png " cours  10")
+![cours](/images/osoul/osoul-10-9.png " cours  10")
+![cours](/images/osoul/osoul-10-10.png " cours 10")
+![cours](/images/osoul/osoul-10-11.png " cours 10")
+![cours](/images/osoul/osoul-10-12.png " cours 10")
+![cours](/images/osoul/osoul-10-13.png " cours 10")
+![cours](/images/osoul/osoul-10-14.png " cours 10")
+![cours](/images/osoul/osoul-10-15.png " cours 10")
+![cours](/images/osoul/osoul-10-16.png " cours 10")
+
+## Cours 11
+
+![cours](/images/osoul/osoul-11-1.png " cours  11")
+![cours](/images/osoul/osoul-11-2.png " cours  11")
+![cours](/images/osoul/osoul-11-3.png " cours  11")
+![cours](/images/osoul/osoul-11-4.png " cours  11")
+![cours](/images/osoul/osoul-11-5.png " cours  11")
+![cours](/images/osoul/osoul-11-6.png " cours  11")
+![cours](/images/osoul/osoul-11-7.png " cours  11")
+![cours](/images/osoul/osoul-11-8.png " cours  11")
+![cours](/images/osoul/osoul-11-9.png " cours  11")
+![cours](/images/osoul/osoul-11-10.png " cours 11")
+![cours](/images/osoul/osoul-11-11.png " cours 11")
+![cours](/images/osoul/osoul-11-12.png " cours 11")
+![cours](/images/osoul/osoul-11-13.png " cours 11")
+![cours](/images/osoul/osoul-11-14.png " cours 11")
+![cours](/images/osoul/osoul-11-15.png " cours 11")
+![cours](/images/osoul/osoul-11-16.png " cours 11")
+![cours](/images/osoul/osoul-11-17.png " cours 11")
+

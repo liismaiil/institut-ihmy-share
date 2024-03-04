@@ -203,3 +203,35 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-19-7.png "cours  6")
 
 
+
+## 20} 7 : Adhen et réduction des prières - 
+
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-0.png "cours  7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-1.png "cours  7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-2.png "cours  7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-3.png "cours  7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-4.png "cours  7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-5.png "cours  7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-6.png "cours  7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-7.png "cours  7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-9.png "cours  7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-10.png "cours 7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-11.png "cours 7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-12.png "cours 7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-13.png "cours 7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-14.png "cours 7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-15.png "cours 7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-16.png "cours 7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-17.png "cours 7")
+
+### dalil 7
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-0.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-1.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-2.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-3.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-4.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-5.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-6.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-7.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-8.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-9.png "dalil  20")

@@ -230,11 +230,22 @@ description: Pophete hadiths.
 
 ## 19  Chapitre les merites de la salate
 
-![cours](/images/my/al-hadith/hadith-18-0.png " cours  18")
-![cours](/images/my/al-hadith/hadith-18-1.png " cours  18")
-![cours](/images/my/al-hadith/hadith-18-2.png " cours  18")
-![cours](/images/my/al-hadith/hadith-18-3.png " cours  18")
-![cours](/images/my/al-hadith/hadith-18-4.png " cours  18")
-![cours](/images/my/al-hadith/hadith-18-5.png " cours  18")
-![cours](/images/my/al-hadith/hadith-18-6.png " cours  18")
-![cours](/images/my/al-hadith/hadith-18-7.png " cours  18")
+![cours](/images/my/al-hadith/hadith-19-0.png " cours  19")
+![cours](/images/my/al-hadith/hadith-19-1.png " cours  19")
+![cours](/images/my/al-hadith/hadith-19-2.png " cours  19")
+![cours](/images/my/al-hadith/hadith-19-3.png " cours  19")
+![cours](/images/my/al-hadith/hadith-19-4.png " cours  19")
+![cours](/images/my/al-hadith/hadith-19-5.png " cours  19")
+![cours](/images/my/al-hadith/hadith-19-6.png " cours  19")
+![cours](/images/my/al-hadith/hadith-19-7.png " cours  19")
+
+## 20  Chapitre des menstrues
+
+![cours](/images/my/al-hadith/hadith-20-0.png " cours  20")
+![cours](/images/my/al-hadith/hadith-20-1.png " cours  20")
+![cours](/images/my/al-hadith/hadith-20-2.png " cours  20")
+![cours](/images/my/al-hadith/hadith-20-3.png " cours  20")
+![cours](/images/my/al-hadith/hadith-20-4.png " cours  20")
+![cours](/images/my/al-hadith/hadith-20-5.png " cours  20")
+![cours](/images/my/al-hadith/hadith-20-6.png " cours  20")
+![cours](/images/my/al-hadith/hadith-20-7.png " cours  20")
