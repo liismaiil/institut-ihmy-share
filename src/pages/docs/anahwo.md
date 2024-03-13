@@ -182,4 +182,17 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-10-19.png " cours 10")
 ![cours](/images/nahwo/nahwo-10-20.png " cours 10")
 
-
+## Cours 11
+![cours](/images/nahwo/nahwo-11-1.png " cours  11")
+![cours](/images/nahwo/nahwo-11-2.png " cours  11")
+![cours](/images/nahwo/nahwo-11-3.png " cours  11")
+![cours](/images/nahwo/nahwo-11-4.png " cours  11")
+![cours](/images/nahwo/nahwo-11-5.png " cours  11")
+![cours](/images/nahwo/nahwo-11-6.png " cours  11")
+![cours](/images/nahwo/nahwo-11-7.png " cours  11")
+![cours](/images/nahwo/nahwo-11-8.png " cours  11")
+![cours](/images/nahwo/nahwo-11-9.png " cours  11")
+![cours](/images/nahwo/nahwo-11-10.png " cours 11")
+![cours](/images/nahwo/nahwo-11-11.png " cours 11")
+![cours](/images/nahwo/nahwo-11-12.png " cours 11")
+![cours](/images/nahwo/nahwo-11-13.png " cours 11")
