@@ -335,9 +335,9 @@ description: first part of fikh al MALIKI
 ![cours](/images/my/fikh-maliki/first/Al-Akhdari-12-22.png " cours 12 ")
 ![cours](/images/my/fikh-maliki/first/Al-Akhdari-12-23.png " cours 12 ")
 ![cours](/images/my/fikh-maliki/first/Al-Akhdari-12-24.png " cours 12 ")
-![cours](/images/my/fikh-maliki/first/Al-Akhdari-12-24.png " cours 12 ")
-![cours](/images/my/fikh-maliki/first/Al-Akhdari-12-24.png " cours 12 ")
-![cours](/images/my/fikh-maliki/first/Al-Akhdari-12-24.png " cours 12 ")
+![cours](/images/my/fikh-maliki/first/Al-Akhdari-12-25.png " cours 12 ")
+![cours](/images/my/fikh-maliki/first/Al-Akhdari-12-26.png " cours 12 ")
+![cours](/images/my/fikh-maliki/first/Al-Akhdari-12-27.png " cours 12 ")
 
 ## dalil 12
 

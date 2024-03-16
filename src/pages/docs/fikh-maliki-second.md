@@ -6,43 +6,17 @@ description: al fikh almaliki matn Ibn 3achir
 
 ## 14 } 1 :Présentation et Introduction du support
  
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-1.png "cours  2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-2.png "cours  2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-3.png "cours  2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-4.png "cours  2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-5.png "cours  2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-6.png "cours  2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-7.png "cours  2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-9.png "cours  2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-10.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-11.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-12.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-13.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-14.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-15.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-16.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-17.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-18.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-19.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-20.png "cours 2")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-21.png "cours 2")
-
-### dalil 1
-
-![cours](/images/my/fikh-maliki/second/dalil-matn-Ibn-3achir-2-0.png "cours  2")
-![cours](/images/my/fikh-maliki/second/dalil-matn-Ibn-3achir-2-1.png "cours  2")
-![cours](/images/my/fikh-maliki/second/dalil-matn-Ibn-3achir-2-2.png "cours  2")
-    
-
 ## 15 } 2 :Bases de jurisprudence 
- 
+
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-1.png "cours  2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-2.png "cours  2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-3.png "cours  2")
+[video shareabel](https://www.youtube.com/watch?v=V5EPymcWp-g)
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-4.png "cours  2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-5.png "cours  2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-6.png "cours  2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-7.png "cours  2")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-8.png "cours  2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-9.png "cours  2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-10.png "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-11.png "cours 2")
@@ -71,6 +45,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-5.png "cours  3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-6.png "cours  3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-7.png "cours  3")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-8.png "cours  3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-9.png "cours  3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-10.png "cours 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-11.png "cours 3")
@@ -85,8 +60,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-20.png "cours 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-21.png "cours 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-22.png "cours 3")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-23.png "cours 3")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-24.png "cours 3")
 
 ### dalil 3
 
@@ -107,6 +80,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-5.png "cours  4")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-6.png "cours  4")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-7.png "cours  4")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-8.png "cours  4")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-9.png "cours  4")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-10.png "cours 4")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-11.png "cours 4")
@@ -147,6 +121,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-5.png "cours  5")
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-6.png "cours  5")
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-7.png "cours  5")
+![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-8.png "cours  5")
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-9.png "cours  5")
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-10.png "cours 5")
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-11.png "cours 5")
@@ -182,6 +157,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-5.png "cours  6")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-6.png "cours  6")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-7.png "cours  6")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-8.png "cours  6")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-9.png "cours  6")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-10.png "cours 6")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-11.png "cours 6")
@@ -214,6 +190,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-5.png "cours  7")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-6.png "cours  7")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-7.png "cours  7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-8.png "cours  7")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-9.png "cours  7")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-10.png "cours 7")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-11.png "cours 7")
@@ -246,6 +223,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-5.png "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-6.png "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-7.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-8.png "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-9.png "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-10.png "cours 13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-11.png "cours 13")
