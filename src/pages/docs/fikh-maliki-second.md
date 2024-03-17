@@ -69,7 +69,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-matn-Ibn-3achir-3-3.png "cours  3")
 ![cours](/images/my/fikh-maliki/second/dalil-matn-Ibn-3achir-3-4.png "cours  3")
 ![cours](/images/my/fikh-maliki/second/dalil-matn-Ibn-3achir-3-5.png "cours  3")
-![cours](/images/my/fikh-maliki/second/dalil-matn-Ibn-3achir-3-6.png "cours  3")
 
 ## 17 } 4 : les annulatifs des ablutions
  
@@ -131,6 +130,14 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-15.png "cours 5")
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-16.png "cours 5")
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-17.png "cours 5")
+![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-18.png "cours 5")
+![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-19.png "cours 5")
+![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-20.png "cours 5")
+![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-21.png "cours 5")
+![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-22.png "cours 5")
+![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-23.png "cours 5")
+![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-24.png "cours 5")
+![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-25.png "cours 5")
 
 ### dalil 5
 
@@ -165,8 +172,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-13.png "cours 6")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-14.png "cours 6")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-15.png "cours 6")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-16.png "cours 6")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-17.png "cours 6")
 
 ### dalil 6
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-19-0.png "cours  6")

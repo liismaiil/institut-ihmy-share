@@ -40,7 +40,6 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo2-13.png "cours 2")
 ![cours](/images/nahwo/nahwo2-14.png "cours 2")
 
-
 ## Cours 3
 
 ![cours](/images/nahwo/nahwo3-2.png " cours  3")
@@ -58,7 +57,6 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo3-14.png "cours 3")
 ![cours](/images/nahwo/nahwo3-15.png "cours 3")
 
-
 ## Cours 4
 
 ![cours](/images/nahwo/nahwo4-2.png " cours  4")
@@ -72,7 +70,6 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo4-10.png " cours 4")
 ![cours](/images/nahwo/nahwo4-11.png " cours 4")
 ![cours](/images/nahwo/nahwo4-12.png "cours  4")
-
 
 ## Cours 5
 
@@ -196,3 +193,35 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-11-11.png " cours 11")
 ![cours](/images/nahwo/nahwo-11-12.png " cours 11")
 ![cours](/images/nahwo/nahwo-11-13.png " cours 11")
+
+## Cours 12
+
+![cours](/images/nahwo/nahwo-12-1.png " cours  12")
+![cours](/images/nahwo/nahwo-12-2.png " cours  12")
+![cours](/images/nahwo/nahwo-12-3.png " cours  12")
+![cours](/images/nahwo/nahwo-12-4.png " cours  12")
+![cours](/images/nahwo/nahwo-12-5.png " cours  12")
+![cours](/images/nahwo/nahwo-12-6.png " cours  12")
+![cours](/images/nahwo/nahwo-12-7.png " cours  12")
+![cours](/images/nahwo/nahwo-12-8.png " cours  12")
+![cours](/images/nahwo/nahwo-12-9.png " cours  12")
+![cours](/images/nahwo/nahwo-12-10.png " cours 12")
+![cours](/images/nahwo/nahwo-12-11.png " cours 12")
+![cours](/images/nahwo/nahwo-12-12.png " cours 12")
+![cours](/images/nahwo/nahwo-12-13.png " cours 12")
+
+## Cours 13
+
+![cours](/images/nahwo/nahwo-13-1.png " cours  13")
+![cours](/images/nahwo/nahwo-13-2.png " cours  13")
+![cours](/images/nahwo/nahwo-13-3.png " cours  13")
+![cours](/images/nahwo/nahwo-13-4.png " cours  13")
+![cours](/images/nahwo/nahwo-13-5.png " cours  13")
+![cours](/images/nahwo/nahwo-13-6.png " cours  13")
+![cours](/images/nahwo/nahwo-13-7.png " cours  13")
+![cours](/images/nahwo/nahwo-13-8.png " cours  13")
+![cours](/images/nahwo/nahwo-13-9.png " cours  13")
+![cours](/images/nahwo/nahwo-13-10.png " cours 13")
+![cours](/images/nahwo/nahwo-13-11.png " cours 13")
+![cours](/images/nahwo/nahwo-13-12.png " cours 13")
+![cours](/images/nahwo/nahwo-13-13.png " cours 13")
