@@ -1,7 +1,7 @@
 ---
-title: Getting started on liismaiil plateform
-pageTitle: Liismaiil platefor tools and first sight of front end proramming - .
-description: Get started with liismaiil platform space and edited document.
+title: How to use this doc
+pageTitle: its a share documents from ihkam and mydars courses  .
+description: You can use and share .
 ---
 
 Learn how to get the first exercises and program your first component space. {% .lead %}

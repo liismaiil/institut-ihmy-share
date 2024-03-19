@@ -18,31 +18,7 @@ const navigation = [
       
     ],
   },
-  {
-  title: 'liismaiil project',
-    links: [
-      { title: 'Getting started', href: '/' },
-      { title: 'Liismaiil', href: '/docs/liismaiil' },
-      { title: 'tailwind', href: '/docs/tailwind' },
-      { title: 'Space', href: '/docs/space' },
-    ],
-  },
-  {
-    title: 'frameworks',
-    links: [
-      { title: 'Library basics', href: '/docs/tailwind-basics' },
-    ],
-  },
-
-  {
-    title: 'API reference',
-    links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
-    ],
-  },
+ 
   {
     title: 'Contributing',
     links: [
