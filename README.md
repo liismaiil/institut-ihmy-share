@@ -1,7 +1,6 @@
-# ihmy-share ??
+# ihmy-share
 
-ihmy-share is a  site for sharing usefull document front end built using 
-
+ihmy-share is a usefull document sharing  front end . 
 
 ## Getting started
 
