@@ -1,6 +1,6 @@
 ---
 title: How to use this doc
-pageTitle: its a share documents from ihkam and mydars courses  .
+pageTitle:  ihkam and mydars share documents.
 description: You can use and share .
 ---
 

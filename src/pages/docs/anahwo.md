@@ -161,7 +161,6 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-10-19.png " cours 10")
 ![cours](/images/nahwo/nahwo-10-20.png " cours 10")
 ## Cours 11
-![cours](/images/nahwo/nahwo-11-1.png " cours  11")
 ![cours](/images/nahwo/nahwo-11-2.png " cours  11")
 ![cours](/images/nahwo/nahwo-11-3.png " cours  11")
 ![cours](/images/nahwo/nahwo-11-4.png " cours  11")
@@ -175,7 +174,6 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-11-12.png " cours 11")
 ![cours](/images/nahwo/nahwo-11-13.png " cours 11")
 ## Cours 12
-![cours](/images/nahwo/nahwo-12-1.png " cours  12")
 ![cours](/images/nahwo/nahwo-12-2.png " cours  12")
 ![cours](/images/nahwo/nahwo-12-3.png " cours  12")
 ![cours](/images/nahwo/nahwo-12-4.png " cours  12")
@@ -188,8 +186,9 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-12-11.png " cours 12")
 ![cours](/images/nahwo/nahwo-12-12.png " cours 12")
 ![cours](/images/nahwo/nahwo-12-13.png " cours 12")
+![cours](/images/nahwo/nahwo-12-14.png " cours 12")
+![cours](/images/nahwo/nahwo-12-15.png " cours 12")
 ## Cours 13
-![cours](/images/nahwo/nahwo-13-1.png " cours  13")
 ![cours](/images/nahwo/nahwo-13-2.png " cours  13")
 ![cours](/images/nahwo/nahwo-13-3.png " cours  13")
 ![cours](/images/nahwo/nahwo-13-4.png " cours  13")
