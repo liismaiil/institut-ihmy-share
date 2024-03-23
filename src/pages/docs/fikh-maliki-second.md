@@ -217,9 +217,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-7.png "dalil  20")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-8.png "dalil  20")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-9.png "dalil  20")
-
 ## 21 } 13 :  Matn Ibn Ashir - Le jeûne - partie 1- 
-
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-0.png "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-1.png "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-2.png "cours  13")
@@ -233,8 +231,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-10.png "cours 13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-11.png "cours 13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-12.png "cours 13")
-
-
 ### dalil 21
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-0.png "dalil  21")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-1.png "dalil  21")
@@ -248,3 +244,29 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-9.png "dalil  21")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-10.png "dalil  21")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-11.png "dalil  21")
+
+## 22 } 14 :  Matn Ibn Ashir - Le jeûne - partie 2- 
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-0.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-1.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-2.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-3.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-4.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-5.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-6.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-7.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-8.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-9.png "cours  13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-10.png "cours 13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-11.png "cours 13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-12.png "cours 13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-13.png "cours 13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-14.png "cours 13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-15.png "cours 13")
+### dalil 22
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-0.png "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-1.png "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-2.png "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-3.png "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-4.png "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-5.png "dalil  22")
+
