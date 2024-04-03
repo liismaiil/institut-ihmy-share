@@ -1,109 +1,294 @@
 ---
-title: How to use this doc
-pageTitle:  ihkam and mydars share documents.
-description: You can use and share .
+title: 3akida
+pageTitle: 3akida Darat albayan - .
+description: Cours about foundations of dogme .
 ---
 
-Learn how to get the first exercises and program your first component space. {% .lead %}
-tablets and frontend library
-{% quick-links %}
+## Cours 1
 
-{% quick-link title="cards and tablets" icon="installation" href="http://locahost:3003/tablets" description="Step-by-step guides to use cards ." /%}
-
-{% quick-link title="Front end library" icon="presets" href="/tailwind-basics" description="Learn how the internals work and contribute." /%}
-
-{% /quick-links %}
-
-
----
-
-## Quick start
-
-The programming exercises are made in order to modify the displayed cards and ayat , you will discover the spacing text , modifying colors , and make font wode bold or more amphasized
-
-### Adding the page in your space  
-
-we create file in pages directory with the token name  
-
-```shell
-get github repository 
-git branch feature/[token]
-```
-
-{% callout title="you can add all the element you want in that page ,!" %}
-Now you can include organisator tablets to your space `code` in it. link from where you can clone 
-[github](https://github.com/liismail/liismaiil) .
-{% /callout %}
-
-### Adding new page 
-
-our layout is composed of three column
-
-```js
-// cache-advance.config.js
-export default {
-  strategy: 'predictive',
-  engine: {
-    cpus: 12,
-    backups: ['./storage/cache.wtf'],
-  },
-}
-```
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="You should know!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
-{% /callout %}
+![cours](/images/3akida/darat1-1.png "cours 1")
+![cours](/images/3akida/darat1-2.png "cours 1")
+![cours](/images/3akida/darat1-3.png "cours 1")
+![cours](/images/3akida/darat1-4.png "cours 1")
+![cours](/images/3akida/darat1-5.png "cours 1")
+![cours](/images/3akida/darat1-6.png "cours 1")
+![cours](/images/3akida/darat1-7.png "cours 1")
+![cours](/images/3akida/darat1-8.png "cours 1")
+![cours](/images/3akida/darat1-9.png "cours 1")
+![cours](/images/3akida/darat1-10.png "cours 1")
+![cours](/images/3akida/darat1-11.png "cours 1")
+![cours](/images/3akida/darat1-12.png "cours 1")
+![cours](/images/3akida/darat1-13.png "cours 1")
+![cours](/images/3akida/darat1-14.png "cours 1")
 
 ---
 
-## Basic usage
+## Cours 2
 
-Praesentium laudantium magni. Consequatur reiciendis aliquid nihil iusto ut in et. Quisquam ut et aliquid occaecati. Culpa veniam aut et voluptates amet perspiciatis. Qui exercitationem in qui. Vel qui dignissimos sit quae distinctio.
+![cours](/images/3akida/darat2-2.png " cours 2")
+![cours](/images/3akida/darat2-3.png " cours 2")
+![cours](/images/3akida/darat2-4.png " cours 2")
+![cours](/images/3akida/darat2-5.png " cours 2")
+![cours](/images/3akida/darat2-6.png " cours 2")
+![cours](/images/3akida/darat2-7.png " cours 2")
+![cours](/images/3akida/darat2-8.png " cours 2")
+![cours](/images/3akida/darat2-9.png " cours 2")
+![cours](/images/3akida/darat2-10.png " cours 2")
+![cours](/images/3akida/darat2-11.png " cours 2")
+![cours](/images/3akida/darat2-12.png " cours 2")
+![cours](/images/3akida/darat2-13.png " cours 2")
+![cours](/images/3akida/darat2-14.png " cours 2")
+![cours](/images/3akida/darat2-15.png " cours 2")
+![cours](/images/3akida/darat2-16.png " cours 2")
 
-### Your first cache
+## Cours 3
 
-Minima vel non iste debitis. Consequatur repudiandae et quod accusamus sit molestias consequatur aperiam. Et sequi ipsa eum voluptatibus ipsam. Et quisquam ut.
+![cours](/images/3akida/darat3-2.png " cours  3")
+![cours](/images/3akida/darat3-3.png " cours  3")
+![cours](/images/3akida/darat3-4.png " cours  3")
+![cours](/images/3akida/darat3-5.png " cours  3")
+![cours](/images/3akida/darat3-6.png " cours  3")
+![cours](/images/3akida/darat3-7.png " cours  3")
+![cours](/images/3akida/darat3-8.png " cours  3")
+![cours](/images/3akida/darat3-9.png " cours  3")
+![cours](/images/3akida/darat3-10.png " cours 3")
+![cours](/images/3akida/darat3-11.png " cours 3")
+![cours](/images/3akida/darat3-12.png " cours 3")
 
-Qui quae esse aspernatur fugit possimus. Quam sed molestiae temporibus. Eum perferendis dignissimos provident ea et. Et repudiandae quasi accusamus consequatur dolore nobis. Quia reiciendis necessitatibus a blanditiis iste quia. Ut quis et amet praesentium sapiente.
+## Cours 4
 
-Atque eos laudantium. Optio odit aspernatur consequuntur corporis soluta quidem sunt aut doloribus. Laudantium assumenda commodi.
+![cours](/images/3akida/darat4-2.png " cours  4")
+![cours](/images/3akida/darat4-3.png " cours  4")
+![cours](/images/3akida/darat4-4.png " cours  4")
+![cours](/images/3akida/darat4-5.png " cours  4")
+![cours](/images/3akida/darat4-6.png " cours  4")
+![cours](/images/3akida/darat4-7.png " cours  4")
+![cours](/images/3akida/darat4-8.png " cours  4")
+![cours](/images/3akida/darat4-9.png " cours  4")
+![cours](/images/3akida/darat4-10.png " cours 4")
+![cours](/images/3akida/darat4-11.png " cours 4")
+![cours](/images/3akida/darat4-12.png " cours 4")
+![cours](/images/3akida/darat4-13.png " cours 4")
+![cours](/images/3akida/darat4-14.png " cours 4")
+![cours](/images/3akida/darat4-15.png " cours 4")
 
-### Clearing the cache
+## Cours 5
 
-Vel aut velit sit dolor aut suscipit at veritatis voluptas. Laudantium tempore praesentium. Qui ut voluptatem.
+![cours](/images/3akida/darat5-2.png " cours  5")
+![cours](/images/3akida/darat5-3.png " cours  5")
+![cours](/images/3akida/darat5-4.png " cours  5")
+![cours](/images/3akida/darat5-5.png " cours  5")
+![cours](/images/3akida/darat5-6.png " cours  5")
+![cours](/images/3akida/darat5-7.png " cours  5")
+![cours](/images/3akida/darat5-8.png " cours  5")
+![cours](/images/3akida/darat5-9.png " cours  5")
+![cours](/images/3akida/darat5-10.png " cours 5")
+![cours](/images/3akida/darat5-11.png " cours 5")
+![cours](/images/3akida/darat5-12.png " cours 5")
+![cours](/images/3akida/darat5-13.png " cours 5")
+![cours](/images/3akida/darat5-14.png " cours 5")
 
-Ea est autem fugiat velit esse a alias earum. Dolore non amet soluta eos libero est. Consequatur qui aliquam qui odit eligendi ut impedit illo dignissimos.
 
-Ut dolore qui aut nam. Natus temporibus nisi voluptatum labore est ex error vel officia. Vero repellendus ut. Suscipit voluptate et placeat. Eius quo corporis ab et consequatur quisquam. Nihil officia facere dolorem occaecati alias deleniti deleniti in.
+## Cours 6
 
-### Adding middleware
+![cours](/images/3akida/darat6-2.png " cours  6")
+![cours](/images/3akida/darat6-3.png " cours  6")
+![cours](/images/3akida/darat6-4.png " cours  6")
+![cours](/images/3akida/darat6-5.png " cours  6")
+![cours](/images/3akida/darat6-6.png " cours  6")
+![cours](/images/3akida/darat6-7.png " cours  6")
+![cours](/images/3akida/darat6-8.png " cours  6")
+![cours](/images/3akida/darat6-9.png " cours  6")
+![cours](/images/3akida/darat6-10.png " cours 6")
+![cours](/images/3akida/darat6-11.png " cours 6")
+![cours](/images/3akida/darat6-12.png " cours 6")
+![cours](/images/3akida/darat6-13.png " cours 6")
+![cours](/images/3akida/darat6-14.png " cours 6")
+![cours](/images/3akida/darat6-15.png " cours 6")
+![cours](/images/3akida/darat6-16.png " cours 6")
+![cours](/images/3akida/darat6-17.png " cours 6")
 
-Officia nobis tempora maiores id iusto magni reprehenderit velit. Quae dolores inventore molestiae perspiciatis aut. Quis sequi officia quasi rem officiis officiis. Nesciunt ut cupiditate. Sunt aliquid explicabo enim ipsa eum recusandae. Vitae sunt eligendi et non beatae minima aut.
 
-Harum perferendis aut qui quibusdam tempore laboriosam voluptatum qui sed. Amet error amet totam exercitationem aut corporis accusantium dolorum. Perspiciatis aut animi et. Sed unde error ut aut rerum.
+## Cours 7
 
-Ut quo libero aperiam mollitia est repudiandae quaerat corrupti explicabo. Voluptas accusantium sed et doloribus voluptatem fugiat a mollitia. Numquam est magnam dolorem asperiores fugiat. Soluta et fuga amet alias temporibus quasi velit. Laudantium voluptatum perspiciatis doloribus quasi facere. Eveniet deleniti veniam et quia veritatis minus veniam perspiciatis.
+![cours](/images/3akida/darat7-2.png " cours  7")
+![cours](/images/3akida/darat7-3.png " cours  7")
+![cours](/images/3akida/darat7-4.png " cours  7")
+![cours](/images/3akida/darat7-5.png " cours  7")
+![cours](/images/3akida/darat7-6.png " cours  7")
+![cours](/images/3akida/darat7-7.png " cours  7")
+![cours](/images/3akida/darat7-8.png " cours  7")
+![cours](/images/3akida/darat7-9.png " cours  7")
+![cours](/images/3akida/darat7-10.png " cours 7")
+![cours](/images/3akida/darat7-11.png " cours 7")
+![cours](/images/3akida/darat7-12.png " cours 7")
+![cours](/images/3akida/darat7-13.png " cours 7")
+![cours](/images/3akida/darat7-14.png " cours 7")
+![cours](/images/3akida/darat7-15.png " cours 7")
+![cours](/images/3akida/darat7-16.png " cours 7")
+![cours](/images/3akida/darat7-17.png " cours 7")
+![cours](/images/3akida/darat7-18.png " cours 7")
+![cours](/images/3akida/darat7-19.png " cours 7")
 
----
+## Cours 8
 
-## Getting help
+![cours](/images/3akida/darat8-2.png " cours  8")
+![cours](/images/3akida/darat8-3.png " cours  8")
+![cours](/images/3akida/darat8-4.png " cours  8")
+![cours](/images/3akida/darat8-5.png " cours  8")
+![cours](/images/3akida/darat8-6.png " cours  8")
+![cours](/images/3akida/darat8-7.png " cours  8")
+![cours](/images/3akida/darat8-8.png " cours  8")
+![cours](/images/3akida/darat8-9.png " cours  8")
+![cours](/images/3akida/darat8-10.png " cours 8")
+![cours](/images/3akida/darat8-11.png " cours 8")
+![cours](/images/3akida/darat8-12.png " cours 8")
+![cours](/images/3akida/darat8-13.png " cours 8")
 
-Consequuntur et aut quisquam et qui consequatur eligendi. Necessitatibus dolorem sit. Excepturi cumque quibusdam soluta ullam rerum voluptatibus. Porro illo sequi consequatur nisi numquam nisi autem. Ut necessitatibus aut. Veniam ipsa voluptatem sed.
+## Cours 9
 
-### Submit an issue
+![cours](/images/3akida/darat-9-1.png " cours  9")
+![cours](/images/3akida/darat-9-2.png " cours  9")
+![cours](/images/3akida/darat-9-3.png " cours  9")
+![cours](/images/3akida/darat-9-4.png " cours  9")
+![cours](/images/3akida/darat-9-5.png " cours  9")
+![cours](/images/3akida/darat-9-6.png " cours  9")
+![cours](/images/3akida/darat-9-7.png " cours  9")
+![cours](/images/3akida/darat-9-8.png " cours  9")
+![cours](/images/3akida/darat-9-9.png " cours  9")
+![cours](/images/3akida/darat-9-10.png " cours 9")
+![cours](/images/3akida/darat-9-11.png " cours 9")
+![cours](/images/3akida/darat-9-12.png " cours 9")
+![cours](/images/3akida/darat-9-13.png " cours 9")
+![cours](/images/3akida/darat-9-14.png " cours 9")
+![cours](/images/3akida/darat-9-15.png " cours 9")
+![cours](/images/3akida/darat-9-16.png " cours 9")
+![cours](/images/3akida/darat-9-17.png " cours 9")
+![cours](/images/3akida/darat-9-18.png " cours 9")
+![cours](/images/3akida/darat-9-19.png " cours 9")
+![cours](/images/3akida/darat-9-20.png " cours 9")
 
-Inventore et aut minus ut voluptatem nihil commodi doloribus consequatur. Facilis perferendis nihil sit aut aspernatur iure ut dolores et. Aspernatur odit dignissimos. Aut qui est sint sint.
+## Cours 10
 
-Facere aliquam qui. Dolorem officia ipsam adipisci qui molestiae. Error voluptatem reprehenderit ex.
+![cours](/images/3akida/darat-10-1.png " cours  10")
+![cours](/images/3akida/darat-10-2.png " cours  10")
+![cours](/images/3akida/darat-10-3.png " cours  10")
+![cours](/images/3akida/darat-10-4.png " cours  10")
+![cours](/images/3akida/darat-10-5.png " cours  10")
+![cours](/images/3akida/darat-10-6.png " cours  10")
+![cours](/images/3akida/darat-10-7.png " cours  10")
+![cours](/images/3akida/darat-10-8.png " cours  10")
+![cours](/images/3akida/darat-10-9.png " cours  10")
+![cours](/images/3akida/darat-10-10.png " cours 10")
+![cours](/images/3akida/darat-10-11.png " cours 10")
+![cours](/images/3akida/darat-10-12.png " cours 10")
+![cours](/images/3akida/darat-10-13.png " cours 10")
+![cours](/images/3akida/darat-10-11.png " cours 10")
+![cours](/images/3akida/darat-10-12.png " cours 10")
+![cours](/images/3akida/darat-10-13.png " cours 10")
+![cours](/images/3akida/darat-10-14.png " cours 10")
+![cours](/images/3akida/darat-10-15.png " cours 10")
+![cours](/images/3akida/darat-10-16.png " cours 10")
+![cours](/images/3akida/darat-10-17.png " cours 10")
+![cours](/images/3akida/darat-10-18.png " cours 10")
+![cours](/images/3akida/darat-10-19.png " cours 10")
+![cours](/images/3akida/darat-10-20.png " cours 10")
 
-Consequatur enim quia maiores aperiam et ipsum dicta. Quam ut sit facere sit quae. Eligendi veritatis aut ut veritatis iste ut adipisci illo.
+## Cours 11
 
-### Join the community
+![cours](/images/3akida/darat-11-1.png " cours  11")
+![cours](/images/3akida/darat-11-2.png " cours  11")
+![cours](/images/3akida/darat-11-3.png " cours  11")
+![cours](/images/3akida/darat-11-4.png " cours  11")
+![cours](/images/3akida/darat-11-5.png " cours  11")
+![cours](/images/3akida/darat-11-6.png " cours  11")
+![cours](/images/3akida/darat-11-7.png " cours  11")
+![cours](/images/3akida/darat-11-8.png " cours  11")
+![cours](/images/3akida/darat-11-9.png " cours  11")
+![cours](/images/3akida/darat-11-10.png " cours 11")
+![cours](/images/3akida/darat-11-11.png " cours 11")
+![cours](/images/3akida/darat-11-12.png " cours 11")
+![cours](/images/3akida/darat-11-13.png " cours 11")
+![cours](/images/3akida/darat-11-11.png " cours 11")
+![cours](/images/3akida/darat-11-12.png " cours 11")
+![cours](/images/3akida/darat-11-13.png " cours 11")
+![cours](/images/3akida/darat-11-14.png " cours 11")
+![cours](/images/3akida/darat-11-15.png " cours 11")
+![cours](/images/3akida/darat-11-16.png " cours 11")
+![cours](/images/3akida/darat-11-17.png " cours 11")
+![cours](/images/3akida/darat-11-18.png " cours 11")
+![cours](/images/3akida/darat-11-19.png " cours 11")
+![cours](/images/3akida/darat-11-20.png " cours 11")
 
-Praesentium facilis iste aliquid quo quia a excepturi. Fuga reprehenderit illo sequi voluptatem voluptatem omnis. Id quia consequatur rerum consectetur eligendi et omnis. Voluptates iusto labore possimus provident praesentium id vel harum quisquam. Voluptatem provident corrupti.
+## Cours 12
 
-Eum et ut. Qui facilis est ipsa. Non facere quia sequi commodi autem. Dicta autem sit sequi omnis impedit. Eligendi amet dolorum magnam repudiandae in a.
+![cours](/images/3akida/darat-12-1.png " cours  12")
+![cours](/images/3akida/darat-12-2.png " cours  12")
+![cours](/images/3akida/darat-12-3.png " cours  12")
+![cours](/images/3akida/darat-12-4.png " cours  12")
+![cours](/images/3akida/darat-12-5.png " cours  12")
+![cours](/images/3akida/darat-12-6.png " cours  12")
+![cours](/images/3akida/darat-12-7.png " cours  12")
+![cours](/images/3akida/darat-12-8.png " cours  12")
+![cours](/images/3akida/darat-12-9.png " cours  12")
+![cours](/images/3akida/darat-12-10.png " cours 12")
+![cours](/images/3akida/darat-12-11.png " cours 12")
+![cours](/images/3akida/darat-12-12.png " cours 12")
+![cours](/images/3akida/darat-12-13.png " cours 12")
+![cours](/images/3akida/darat-12-11.png " cours 12")
+![cours](/images/3akida/darat-12-12.png " cours 12")
+![cours](/images/3akida/darat-12-13.png " cours 12")
+![cours](/images/3akida/darat-12-14.png " cours 12")
+![cours](/images/3akida/darat-12-15.png " cours 12")
+![cours](/images/3akida/darat-12-16.png " cours 12")
+![cours](/images/3akida/darat-12-17.png " cours 12")
+![cours](/images/3akida/darat-12-18.png " cours 12")
+![cours](/images/3akida/darat-12-19.png " cours 12")
+![cours](/images/3akida/darat-12-20.png " cours 12")
 
-Molestiae iusto ut exercitationem dolorem unde iusto tempora atque nihil. Voluptatem velit facere laboriosam nobis ea. Consequatur rerum velit ipsum ipsam. Et qui saepe consequatur minima laborum tempore voluptatum et. Quia eveniet eaque sequi consequatur nihil eos.
+## Cours 13
+
+![cours](/images/3akida/darat-13-1.png " cours  13")
+![cours](/images/3akida/darat-13-2.png " cours  13")
+![cours](/images/3akida/darat-13-3.png " cours  13")
+![cours](/images/3akida/darat-13-4.png " cours  13")
+![cours](/images/3akida/darat-13-5.png " cours  13")
+![cours](/images/3akida/darat-13-6.png " cours  13")
+![cours](/images/3akida/darat-13-7.png " cours  13")
+![cours](/images/3akida/darat-13-8.png " cours  13")
+![cours](/images/3akida/darat-13-9.png " cours  13")
+![cours](/images/3akida/darat-13-10.png " cours 13")
+![cours](/images/3akida/darat-13-11.png " cours 13")
+![cours](/images/3akida/darat-13-12.png " cours 13")
+![cours](/images/3akida/darat-13-13.png " cours 13")
+![cours](/images/3akida/darat-13-11.png " cours 13")
+![cours](/images/3akida/darat-13-12.png " cours 13")
+![cours](/images/3akida/darat-13-13.png " cours 13")
+![cours](/images/3akida/darat-13-14.png " cours 13")
+![cours](/images/3akida/darat-13-15.png " cours 13")
+![cours](/images/3akida/darat-13-16.png " cours 13")
+![cours](/images/3akida/darat-13-17.png " cours 13")
+![cours](/images/3akida/darat-13-18.png " cours 13")
+## Cours 14
+![cours](/images/3akida/darat-14-1.png " cours  14")
+![cours](/images/3akida/darat-14-2.png " cours  14")
+![cours](/images/3akida/darat-14-3.png " cours  14")
+![cours](/images/3akida/darat-14-4.png " cours  14")
+![cours](/images/3akida/darat-14-5.png " cours  14")
+![cours](/images/3akida/darat-14-6.png " cours  14")
+![cours](/images/3akida/darat-14-7.png " cours  14")
+![cours](/images/3akida/darat-14-8.png " cours  14")
+![cours](/images/3akida/darat-14-9.png " cours  14")
+![cours](/images/3akida/darat-14-10.png " cours 14")
+![cours](/images/3akida/darat-14-11.png " cours 14")
+![cours](/images/3akida/darat-14-12.png " cours 14")
+![cours](/images/3akida/darat-14-13.png " cours 14")
+![cours](/images/3akida/darat-14-11.png " cours 14")
+![cours](/images/3akida/darat-14-12.png " cours 14")
+![cours](/images/3akida/darat-14-13.png " cours 14")
+![cours](/images/3akida/darat-14-14.png " cours 14")
+![cours](/images/3akida/darat-14-15.png " cours 14")
+![cours](/images/3akida/darat-14-16.png " cours 14")
+![cours](/images/3akida/darat-14-17.png " cours 14")
+![cours](/images/3akida/darat-14-18.png " cours 14")
+![cours](/images/3akida/darat-14-19.png " cours 14")

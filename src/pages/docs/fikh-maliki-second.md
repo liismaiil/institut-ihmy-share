@@ -217,6 +217,40 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-7.png "dalil  20")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-8.png "dalil  20")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-9.png "dalil  20")
+
+## 21} 8 : Les prosternations de distraction
+
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-0.png "cours  8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-1.png "cours  8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-2.png "cours  8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-3.png "cours  8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-4.png "cours  8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-5.png "cours  8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-6.png "cours  8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-7.png "cours  8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-8.png "cours  8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-9.png "cours  8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-10.png "cours 8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-11.png "cours 8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-12.png "cours 8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-13.png "cours 8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-14.png "cours 8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-15.png "cours 8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-16.png "cours 8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-17.png "cours 8")
+
+### dalil 8
+![cours](/images/my/fikh-maliki/second/dalil-8-0.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-8-1.png "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-2.png "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-3.png "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-4.png "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-5.png "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-6.png "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-7.png "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-8.png "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-9.png "dalil  23")
+
 ## 21 } 13 :  Matn Ibn Ashir - Le jeûne - partie 1- 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-0.png "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-1.png "cours  13")
