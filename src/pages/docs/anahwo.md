@@ -121,7 +121,6 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-8-15.png " cours 8")
 ![cours](/images/nahwo/nahwo-8-16.png " cours 8")
 ![cours](/images/nahwo/nahwo-8-17.png " cours 8")
-![cours](/images/nahwo/nahwo-8-17.png " cours 8")
 ## Cours 9
 ![cours](/images/nahwo/nahwo-9-2.png " cours  9")
 ![cours](/images/nahwo/nahwo-9-3.png " cours  9")
