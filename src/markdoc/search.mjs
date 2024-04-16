@@ -41,6 +41,7 @@ function extractSections(node, sections, isRoot = true) {
   }
 }
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default function (nextConfig = {}) {
   let cache = new Map()
 
