@@ -10,18 +10,12 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat1-2.png "cours 1")
 ![cours](/images/3akida/darat1-3.png "cours 1")
 ![cours](/images/3akida/darat1-4.png "cours 1")
-![cours](/images/3akida/darat1-5.png "cours 1")
 ![cours](/images/3akida/darat1-6.png "cours 1")
 ![cours](/images/3akida/darat1-7.png "cours 1")
-![cours](/images/3akida/darat1-8.png "cours 1")
-![cours](/images/3akida/darat1-9.png "cours 1")
-![cours](/images/3akida/darat1-10.png "cours 1")
 ![cours](/images/3akida/darat1-11.png "cours 1")
 ![cours](/images/3akida/darat1-12.png "cours 1")
 ![cours](/images/3akida/darat1-13.png "cours 1")
 ![cours](/images/3akida/darat1-14.png "cours 1")
-
----
 
 ## Cours 2
 
@@ -147,7 +141,6 @@ description: Cours about foundations of dogme .
 
 ## Cours 9
 
-![cours](/images/3akida/darat-9-1.png " cours  9")
 ![cours](/images/3akida/darat-9-2.png " cours  9")
 ![cours](/images/3akida/darat-9-3.png " cours  9")
 ![cours](/images/3akida/darat-9-4.png " cours  9")
