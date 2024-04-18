@@ -205,7 +205,6 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-11-17.png " cours 11")
 ![cours](/images/3akida/darat-11-18.png " cours 11")
 ![cours](/images/3akida/darat-11-19.png " cours 11")
-![cours](/images/3akida/darat-11-20.png " cours 11")
 
 ## Cours 12
 ![cours](/images/3akida/darat-12-2.png " cours  12")
@@ -220,9 +219,6 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-12-11.png " cours 12")
 ![cours](/images/3akida/darat-12-12.png " cours 12")
 ![cours](/images/3akida/darat-12-13.png " cours 12")
-![cours](/images/3akida/darat-12-11.png " cours 12")
-![cours](/images/3akida/darat-12-12.png " cours 12")
-![cours](/images/3akida/darat-12-13.png " cours 12")
 ![cours](/images/3akida/darat-12-14.png " cours 12")
 ![cours](/images/3akida/darat-12-15.png " cours 12")
 ![cours](/images/3akida/darat-12-16.png " cours 12")
@@ -230,10 +226,12 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-12-18.png " cours 12")
 ![cours](/images/3akida/darat-12-19.png " cours 12")
 ![cours](/images/3akida/darat-12-20.png " cours 12")
+![cours](/images/3akida/darat-12-21.png " cours 12")
+![cours](/images/3akida/darat-12-22.png " cours 12")
+![cours](/images/3akida/darat-12-23.png " cours 12")
 
-## Cours 13
+## Cours 13  [video](https://www.youtube.com/watch?v=kKSXzsPH7Cg 'video')
 
-![cours](/images/3akida/darat-13-1.png " cours  13")
 ![cours](/images/3akida/darat-13-2.png " cours  13")
 ![cours](/images/3akida/darat-13-3.png " cours  13")
 ![cours](/images/3akida/darat-13-4.png " cours  13")
@@ -246,16 +244,13 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-13-11.png " cours 13")
 ![cours](/images/3akida/darat-13-12.png " cours 13")
 ![cours](/images/3akida/darat-13-13.png " cours 13")
-![cours](/images/3akida/darat-13-11.png " cours 13")
-![cours](/images/3akida/darat-13-12.png " cours 13")
-![cours](/images/3akida/darat-13-13.png " cours 13")
 ![cours](/images/3akida/darat-13-14.png " cours 13")
 ![cours](/images/3akida/darat-13-15.png " cours 13")
 ![cours](/images/3akida/darat-13-16.png " cours 13")
 ![cours](/images/3akida/darat-13-17.png " cours 13")
 ![cours](/images/3akida/darat-13-18.png " cours 13")
-## Cours 14
-![cours](/images/3akida/darat-14-1.png " cours  14")
+## Cours 14 [video](https://www.youtube.com/watch?v=nV1p6EPkYV8 'video')
+
 ![cours](/images/3akida/darat-14-2.png " cours  14")
 ![cours](/images/3akida/darat-14-3.png " cours  14")
 ![cours](/images/3akida/darat-14-4.png " cours  14")
@@ -265,9 +260,6 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-14-8.png " cours  14")
 ![cours](/images/3akida/darat-14-9.png " cours  14")
 ![cours](/images/3akida/darat-14-10.png " cours 14")
-![cours](/images/3akida/darat-14-11.png " cours 14")
-![cours](/images/3akida/darat-14-12.png " cours 14")
-![cours](/images/3akida/darat-14-13.png " cours 14")
 ![cours](/images/3akida/darat-14-11.png " cours 14")
 ![cours](/images/3akida/darat-14-12.png " cours 14")
 ![cours](/images/3akida/darat-14-13.png " cours 14")
