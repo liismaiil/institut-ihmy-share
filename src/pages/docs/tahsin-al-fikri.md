@@ -225,7 +225,6 @@ description: Cours about protection about all polyteists ideas .
 
 ## Cours 13
 
-![cours](/images/tahsin/tahsin-13-1.png " cours  13")
 ![cours](/images/tahsin/tahsin-13-2.png " cours  13")
 ![cours](/images/tahsin/tahsin-13-3.png " cours  13")
 ![cours](/images/tahsin/tahsin-13-4.png " cours  13")
@@ -244,8 +243,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-13-17.png " cours 13")
 ![cours](/images/tahsin/tahsin-13-18.png " cours 13")
 
-## Cours 14
-![cours](/images/tahsin/tahsin-14-1.png " cours  14")
+## Cours 14  [video](https://www.youtube.com/watch?v=MoKCld6zIi4 'video')
 ![cours](/images/tahsin/tahsin-14-2.png " cours  14")
 ![cours](/images/tahsin/tahsin-14-3.png " cours  14")
 ![cours](/images/tahsin/tahsin-14-4.png " cours  14")
