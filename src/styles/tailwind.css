@@ -8,7 +8,9 @@
   [inert] ::-webkit-scrollbar {
     display: none;
   }
-  a {
+  * a {
+    width: 13px;
+    color:aqua;
   text-decoration: none;
 }
 }

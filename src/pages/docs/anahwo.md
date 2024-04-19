@@ -200,7 +200,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-13-10.png " cours 13")
 ![cours](/images/nahwo/nahwo-13-11.png " cours 13")
 ![cours](/images/nahwo/nahwo-13-12.png " cours 13")
-![cours](/images/nahwo/nahwo-13-13.png " cours 13")
+
 ## Cours 14 [📹️](https://www.youtube.com/watch?v=62_j7QmMkUM 'course lecture')
 ![cours](/images/nahwo/nahwo-14-2.png " cours  14")
 ![cours](/images/nahwo/nahwo-14-3.png " cours  14")
