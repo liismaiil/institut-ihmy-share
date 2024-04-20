@@ -18,7 +18,13 @@ const navigation = [
       
     ],
   },
- 
+   {
+    title: 'Le chemin des vertueux shares',
+    links: [
+      { title: 'fondements ', href: '/docs/vertueux' },
+      
+    ],
+  },
   {
     title: 'Contributing',
     links: [
