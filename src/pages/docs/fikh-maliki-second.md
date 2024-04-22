@@ -236,8 +236,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-13.png "cours 8")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-14.png "cours 8")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-15.png "cours 8")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-16.png "cours 8")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-17.png "cours 8")
 
 ### dalil 8
 ![cours](/images/my/fikh-maliki/second/dalil-8-0.png "dalil  20")
@@ -245,11 +243,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-8-2.png "dalil  23")
 ![cours](/images/my/fikh-maliki/second/dalil-8-3.png "dalil  23")
 ![cours](/images/my/fikh-maliki/second/dalil-8-4.png "dalil  23")
-![cours](/images/my/fikh-maliki/second/dalil-8-5.png "dalil  23")
-![cours](/images/my/fikh-maliki/second/dalil-8-6.png "dalil  23")
-![cours](/images/my/fikh-maliki/second/dalil-8-7.png "dalil  23")
-![cours](/images/my/fikh-maliki/second/dalil-8-8.png "dalil  23")
-![cours](/images/my/fikh-maliki/second/dalil-8-9.png "dalil  23")
 
 ## 21 } 13 :  Matn Ibn Ashir - Le jeûne - partie 1- 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-0.png "cours  13")

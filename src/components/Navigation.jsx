@@ -9,8 +9,6 @@ export function Navigation({ navigation, className }) {
   const [subMenu, setSubMenu] = useState(() => -1);
   useEffect(() => {
     console.log({ subMenu });
-
-
   }, [subMenu]);
 
   return (
@@ -18,15 +16,12 @@ export function Navigation({ navigation, className }) {
       <ul role="list" className="space-y-9">
         {navigation.map((section, index) => (
           <li key={section.title} style={{ cursor: 'pointer' }} onClick={() => setSubMenu((prev) => {
-            console.log({ prev });
-
-            if (prev === index) {
-
-              setSubMenu(-1)
-            } else if (prev !== index) {
-              setSubMenu(index)
+            console.log({ prev, index, subMenu });
+             if (typeof subMenu === 'undefined' || typeof prev === 'undefined') {
+              return index
             } else {
               console.log({ prev, index, subMenu });
+              return index
 
 
             }
