@@ -262,9 +262,10 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-22-sc-c.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-22-sc-dd.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-22-sc-ee.png " cours  23")
-![cours](/images/my/al-hadith/hadith-22-sc-ed.png " cours  23")
-![cours](/images/my/al-hadith/hadith-22-sc-ds.png " cours  23")
-![cours](/images/my/al-hadith/hadith-23-0.png " cours  23")
+ 
+![cours](/images/my/al-hadith/hadith-22-sc-f.png " cours  23")
+![cours](/images/my/al-hadith/hadith-22-sc-g.png " cours  23")
+
 ![cours](/images/my/al-hadith/hadith-23-1.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-23-2.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-23-3.png " cours  23")
