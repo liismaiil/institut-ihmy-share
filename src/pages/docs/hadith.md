@@ -262,10 +262,8 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-22-sc-c.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-22-sc-dd.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-22-sc-ee.png " cours  23")
- 
 ![cours](/images/my/al-hadith/hadith-22-sc-f.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-22-sc-g.png " cours  23")
-
 ![cours](/images/my/al-hadith/hadith-23-1.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-23-2.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-23-3.png " cours  23")
@@ -275,3 +273,18 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-23-7.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-23-8.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-23-9.png " cours  23")
+
+## 24 كتاب العلم Le livre de la science suite
+![cours](/images/my/al-hadith/hadith-24-1.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-2.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-3.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-4.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-5.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-6.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-7.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-8.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-9.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-10.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-11.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-12.png " cours  24")
+![cours](/images/my/al-hadith/hadith-24-13.png " cours  24")
