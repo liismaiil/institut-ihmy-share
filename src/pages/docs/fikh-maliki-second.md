@@ -244,6 +244,39 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-8-3.png "dalil  23")
 ![cours](/images/my/fikh-maliki/second/dalil-8-4.png "dalil  23")
 
+## 22} 9 : La prière du vendredi – La prière en groupe
+
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-0.png "cours  9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-1.png "cours  9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-2.png "cours  9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-3.png "cours  9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-4.png "cours  9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-5.png "cours  9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-6.png "cours  9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-7.png "cours  9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-8.png "cours  9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-9.png "cours  9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-10.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-11.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-12.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-13.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-14.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-15.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-16.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-17.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-18.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-19.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-20.png "cours 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-21.png "cours 9")
+
+### dalil 9
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-0.png "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-1.png "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-2.png "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-3.png "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-4.png "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-5.png "dalil  22")
+
 ## 21 } 13 :  Matn Ibn Ashir - Le jeûne - partie 1- 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-0.png "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-1.png "cours  13")
@@ -258,7 +291,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-10.png "cours 13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-11.png "cours 13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-12.png "cours 13")
-### dalil 21
+### dalil 13
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-0.png "dalil  21")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-1.png "dalil  21")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-2.png "dalil  21")
@@ -289,7 +322,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-13.png "cours 13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-14.png "cours 13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-15.png "cours 13")
-### dalil 22
+### dalil 14
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-0.png "dalil  22")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-1.png "dalil  22")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-2.png "dalil  22")
