@@ -220,7 +220,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-14-17.png " cours 14")
 ![cours](/images/nahwo/nahwo-14-18.png " cours 14")
 
-## rehearsal  [📹️](https://www.youtube.com/watch?v=zTBaOjtNSo4 'course lecture')
+## revision  [📹️](https://www.youtube.com/watch?v=zTBaOjtNSo4 'course lecture')
 
 ## Cours 15 [📹️]( https://www.youtube.com/watch?v=ZZ8suIwbhgI 'course lecture')
 ![cours](/images/nahwo/nahwo-14-2.png " cours  14")
@@ -233,10 +233,3 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-14-9.png " cours  14")
 ![cours](/images/nahwo/nahwo-14-10.png " cours 14")
 ![cours](/images/nahwo/nahwo-14-11.png " cours 14")
-![cours](/images/nahwo/nahwo-14-12.png " cours 14")
-![cours](/images/nahwo/nahwo-14-13.png " cours 14")
-![cours](/images/nahwo/nahwo-14-14.png " cours 14")
-![cours](/images/nahwo/nahwo-14-15.png " cours 14")
-![cours](/images/nahwo/nahwo-14-16.png " cours 14")
-![cours](/images/nahwo/nahwo-14-17.png " cours 14")
-![cours](/images/nahwo/nahwo-14-18.png " cours 14")

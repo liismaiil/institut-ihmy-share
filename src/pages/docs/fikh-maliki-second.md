@@ -277,6 +277,36 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-4.png "dalil  22")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-5.png "dalil  22")
 
+## 23} 10 : La Zakat (Partie 1)
+
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-0.png "cours  10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-1.png "cours  10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-2.png "cours  10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-3.png "cours  10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-4.png "cours  10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-5.png "cours  10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-6.png "cours  10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-7.png "cours  10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-8.png "cours  10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-9.png "cours  10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-10.png "cours 10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-11.png "cours 10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-12.png "cours 10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-13.png "cours 10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-14.png "cours 10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-15.png "cours 10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-16.png "cours 10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-17.png "cours 10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-18.png "cours 10")
+
+### dalil 10
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-0.png "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-1.png "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-2.png "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-3.png "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-4.png "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-5.png "dalil  10")
+
 ## 21 } 13 :  Matn Ibn Ashir - Le jeûne - partie 1- 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-0.png "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-1.png "cours  13")
