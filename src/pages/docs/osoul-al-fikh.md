@@ -240,6 +240,6 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-15-9.png " cours  15 ")
 ![cours](/images/osoul/osoul-15-10.png " cours 15 ")
 ![cours](/images/osoul/osoul-15-11.png " cours 15 ")
-![cours](/images/osoul/osoul-15-12.png " cours 15 ")
+
 
 
