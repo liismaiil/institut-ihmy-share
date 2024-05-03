@@ -288,3 +288,15 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-24-11.png " cours  24")
 ![cours](/images/my/al-hadith/hadith-24-12.png " cours  24")
 ![cours](/images/my/al-hadith/hadith-24-13.png " cours  24")
+
+## كِتابُ البُيوع 25 Le livre des ventes
+
+![cours](/images/my/al-hadith/hadith-25-1.png " cours  25")
+![cours](/images/my/al-hadith/hadith-25-2.png " cours  25")
+![cours](/images/my/al-hadith/hadith-25-3.png " cours  25")
+![cours](/images/my/al-hadith/hadith-25-4.png " cours  25")
+![cours](/images/my/al-hadith/hadith-25-p1-1.png " cours  25")
+![cours](/images/my/al-hadith/hadith-25-p1-2.png " cours  25")
+![cours](/images/my/al-hadith/hadith-25-p1-3.png " cours  25")
+![cours](/images/my/al-hadith/hadith-25-p1-4.png " cours  25")
+![cours](/images/my/al-hadith/hadith-25-p1-5.png " cours  25")
