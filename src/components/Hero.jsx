@@ -1,7 +1,7 @@
-import { Fragment } from 'react'
-import Image from 'next/image'
 import clsx from 'clsx'
+import Image from 'next/image'
 import Highlight, { defaultProps } from 'prism-react-renderer'
+import { Fragment } from 'react'
 
 import { Button } from '@/components/Button'
 import { HeroBackground } from '@/components/HeroBackground'
@@ -55,7 +55,7 @@ export function Hero() {
                 share document courses for the two institut ihkam and my dars.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/docs/3akida">ihkam 3akida" </Button>
+                <Button href="/docs/3akida">ihkam 3akida </Button>
                 <Button href="/docs/fikh-maliki-first">mydars fikh I</Button>
                 <Button href="https://github.com/liismaiil/institut-ihmy-share" variant="secondary">
                   View on GitHub
