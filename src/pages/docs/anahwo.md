@@ -74,6 +74,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo5-11.png " cours 5")
 ![cours](/images/nahwo/nahwo5-12.png " cours 5")
 ![cours](/images/nahwo/nahwo5-13.png " cours 5")
+
 ## Cours 6   [video](https://www.youtube.com/watch?v=A-uqiIA6XvU 'video')
 ![cours](/images/nahwo/nahwo6-2.png " cours  6")
 ![cours](/images/nahwo/nahwo6-3.png " cours  6")

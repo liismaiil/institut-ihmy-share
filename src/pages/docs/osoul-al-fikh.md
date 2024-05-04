@@ -37,7 +37,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul3-10.png " cours 3")
 ![cours](/images/osoul/osoul3-11.png " cours 3")
 
-## Cours 4
+## Cours 4 [📹️](https://youtu.be/Y6GwtLIqdpI 'lecture')
 
 ![cours](/images/osoul/osoul4-2.png " cours  4")
 ![cours](/images/osoul/osoul4-3.png " cours  4")
@@ -47,7 +47,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul4-7.png " cours  4")
 ![cours](/images/osoul/osoul4-8.png " cours  4")
 
-## Cours 5
+## Cours 5 [📹️](https://youtu.be/Y6GwtLIqdpI 'lecture')
 
 ![cours](/images/osoul/osoul5-2.png " cours  5")
 ![cours](/images/osoul/osoul5-3.png " cours  5")
@@ -63,10 +63,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul5-13.png " cours 5")
 ![cours](/images/osoul/osoul5-14.png " cours 5")
 
-
-
-
-## Cours 6
+## Cours 6 [📹️](https://youtu.be/xeZP5Bjfo0s 'lecture')
 
 ![cours](/images/osoul/osoul6-2.png " cours  6")
 ![cours](/images/osoul/osoul6-3.png " cours  6")
@@ -85,8 +82,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul6-16.png " cours 6")
 ![cours](/images/osoul/osoul6-17.png " cours 6")
 
-
-## Cours 7
+## Cours 7 [📹️](https://youtu.be/ivqfr7XmUJE 'lecture')
 
 ![cours](/images/osoul/osoul7-2.png " cours  7")
 ![cours](/images/osoul/osoul7-3.png " cours  7")
@@ -103,7 +99,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul7-14.png " cours 7")
 ![cours](/images/osoul/osoul7-15.png " cours 7")
 
-## Cours 8
+## Cours 8 [📹️](https://youtu.be/407UTfnc1ds 'lecture')
 
 ![cours](/images/osoul/osoul8-2.png " cours  8")
 ![cours](/images/osoul/osoul8-3.png " cours  8")

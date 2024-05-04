@@ -68,9 +68,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin5-15.png " cours 5")
 ![cours](/images/tahsin/tahsin5-16.png " cours 5")
 
-
-
-## Cours 6
+## Cours 6 [video](https://youtu.be/Xx6W4WxOZHw 'video')
 
 ![cours](/images/tahsin/tahsin6-1.png " cours  6")
 ![cours](/images/tahsin/tahsin6-2.png " cours  6")
@@ -89,7 +87,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin6-15.png " cours 6")
 ![cours](/images/tahsin/tahsin6-16.png " cours 6")
 
-## Cours 7
+## Cours 7 [video](https://youtu.be/67NfzdM4tho 'video')
 
 ![cours](/images/tahsin/tahsin7-1.png " cours  7")
 ![cours](/images/tahsin/tahsin7-2.png " cours  7")
@@ -109,7 +107,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin7-16.png " cours 7")
 ![cours](/images/tahsin/tahsin7-17.png " cours 7")
 
-## Cours 8
+## Cours 8 [video](https://youtu.be/WpM-uV1MFfQ 'video')
 
 ![cours](/images/tahsin/tahsin8-1.png " cours  8")
 ![cours](/images/tahsin/tahsin8-2.png " cours  8")
@@ -130,7 +128,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin8-17.png " cours 8")
 ![cours](/images/tahsin/tahsin8-18.png " cours 8")
 
-## Cours 9
+## Cours 9 [video](https://youtu.be/ZTmz7t1NEvI 'video')
 
 ![cours](/images/tahsin/tahsin-9-1.png " cours  9")
 ![cours](/images/tahsin/tahsin-9-2.png " cours  9")
@@ -152,7 +150,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-9-18.png " cours 9")
 ![cours](/images/tahsin/tahsin-9-19.png " cours 9")
 
-## Cours 10
+## Cours 10 [video](https://youtu.be/aElIVXFRkxk 'video')
 
 ![cours](/images/tahsin/tahsin-10-1.png " cours  10")
 ![cours](/images/tahsin/tahsin-10-2.png " cours  10")
@@ -175,7 +173,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-10-19.png " cours 10")
 ![cours](/images/tahsin/tahsin-10-20.png " cours 10")
 
-## Cours 11
+## Cours 11 [video](https://youtu.be/Y_fO6nd2FN0 'video')
 
 ![cours](/images/tahsin/tahsin-11-1.png " cours  11")
 ![cours](/images/tahsin/tahsin-11-2.png " cours  11")
@@ -202,7 +200,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-11-23.png " cours 11")
 ![cours](/images/tahsin/tahsin-11-24.png " cours 11")
 
-## Cours 12
+## Cours 12 [video](https://youtu.be/4QMxy47ehFU 'video')
 
 ![cours](/images/tahsin/tahsin-12-1.png " cours  12")
 ![cours](/images/tahsin/tahsin-12-2.png " cours  12")
@@ -223,7 +221,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-12-17.png " cours 12")
 ![cours](/images/tahsin/tahsin-12-18.png " cours 12")
 
-## Cours 13
+## Cours 13  [video](https://youtu.be/9-MNQDBx3HQ 'video')
 
 ![cours](/images/tahsin/tahsin-13-2.png " cours  13")
 ![cours](/images/tahsin/tahsin-13-3.png " cours  13")
