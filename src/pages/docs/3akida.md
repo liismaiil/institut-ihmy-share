@@ -4,7 +4,7 @@ pageTitle: 3akida Darat albayan - .
 description: Cours about foundations of dogme .
 ---
 
-## Cours 1 [video](https://youtu.be/i1VlSYjBQhU 'video')
+## Cours 1 [📹️](https://youtu.be/i1VlSYjBQhU 'video')
 
 ![cours](/images/3akida/darat1-1.png "cours 1")
 ![cours](/images/3akida/darat1-2.png "cours 1")
@@ -17,7 +17,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat1-13.png "cours 1")
 ![cours](/images/3akida/darat1-14.png "cours 1")
 
-## Cours 2 [video](https://youtu.be/i1VlSYjBQhU 'video')
+## Cours 2 [📹️](https://youtu.be/i1VlSYjBQhU 'video')
 
 ![cours](/images/3akida/darat2-2.png " cours 2")
 ![cours](/images/3akida/darat2-3.png " cours 2")
@@ -66,7 +66,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat4-14.png " cours 4")
 ![cours](/images/3akida/darat4-15.png " cours 4")
 
-## Cours 5[video](https://youtu.be/3LY079uBW1o 'video') 
+## Cours 5[📹️](https://youtu.be/3LY079uBW1o 'video') 
 
 ![cours](/images/3akida/darat5-2.png " cours  5")
 ![cours](/images/3akida/darat5-3.png " cours  5")
@@ -83,7 +83,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat5-14.png " cours 5")
 
 
-## Cours 6 [video](https://youtu.be/3LY079uBW1o 'video') 
+## Cours 6 [📹️](https://youtu.be/3LY079uBW1o 'video') 
 
 ![cours](/images/3akida/darat6-2.png " cours  6")
 ![cours](/images/3akida/darat6-3.png " cours  6")
@@ -103,7 +103,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat6-17.png " cours 6")
 
 
-## Cours 7 [video](https://youtu.be/19XvuDMKhME 'video')
+## Cours 7 [📹️](https://youtu.be/19XvuDMKhME 'video')
 
 ![cours](/images/3akida/darat7-2.png " cours  7")
 ![cours](/images/3akida/darat7-3.png " cours  7")
@@ -124,7 +124,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat7-18.png " cours 7")
 ![cours](/images/3akida/darat7-19.png " cours 7")
 
-## Cours 8 [video](https://youtu.be/fInG_oA1gUE 'video')
+## Cours 8 [📹️](https://youtu.be/fInG_oA1gUE 'video')
 
 ![cours](/images/3akida/darat8-2.png " cours  8")
 ![cours](/images/3akida/darat8-3.png " cours  8")
@@ -139,7 +139,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat8-12.png " cours 8")
 ![cours](/images/3akida/darat8-13.png " cours 8")
 
-## Cours 9 [video](https://youtu.be/u0AxD9uA6I4 'video')
+## Cours 9 [📹️](https://youtu.be/u0AxD9uA6I4 'video')
 
 ![cours](/images/3akida/darat-9-2.png " cours  9")
 ![cours](/images/3akida/darat-9-3.png " cours  9")
@@ -161,7 +161,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-9-19.png " cours 9")
 ![cours](/images/3akida/darat-9-20.png " cours 9")
 
-## Cours 10 [video](https://youtu.be/-Shs8rSpQbY 'video')
+## Cours 10 [📹️](https://youtu.be/-Shs8rSpQbY 'video')
 
 ![cours](/images/3akida/darat-10-2.png " cours  10")
 ![cours](/images/3akida/darat-10-3.png " cours  10")
@@ -183,7 +183,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-10-19.png " cours 10")
 ![cours](/images/3akida/darat-10-20.png " cours 10")
 
-## Cours 11 [video](https://youtu.be/nNCEUJlPWEA 'video')
+## Cours 11 [📹️](https://youtu.be/nNCEUJlPWEA 'video')
 
 ![cours](/images/3akida/darat-11-2.png " cours  11")
 ![cours](/images/3akida/darat-11-3.png " cours  11")
@@ -207,7 +207,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-11-18.png " cours 11")
 ![cours](/images/3akida/darat-11-19.png " cours 11")
 
-## Cours 12 [video](https://youtu.be/ukNAhFuHxFQ 'video')
+## Cours 12 [📹️](https://youtu.be/ukNAhFuHxFQ 'video')
 ![cours](/images/3akida/darat-12-2.png " cours  12")
 ![cours](/images/3akida/darat-12-3.png " cours  12")
 ![cours](/images/3akida/darat-12-4.png " cours  12")
@@ -231,7 +231,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-12-22.png " cours 12")
 ![cours](/images/3akida/darat-12-23.png " cours 12")
 
-## Cours 13  [video](https://www.youtube.com/watch?v=kKSXzsPH7Cg 'video')
+## Cours 13  [📹️](https://www.youtube.com/watch?v=kKSXzsPH7Cg 'video')
 
 ![cours](/images/3akida/darat-13-2.png " cours  13")
 ![cours](/images/3akida/darat-13-3.png " cours  13")
@@ -251,7 +251,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-13-17.png " cours 13")
 ![cours](/images/3akida/darat-13-18.png " cours 13")
 
-## Cours 14 [video](https://www.youtube.com/watch?v=nV1p6EPkYV8 'video')
+## Cours 14 [📹️](https://www.youtube.com/watch?v=nV1p6EPkYV8 'video')
 
 ![cours](/images/3akida/darat-14-2.png " cours  14")
 ![cours](/images/3akida/darat-14-3.png " cours  14")
@@ -272,5 +272,25 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-14-18.png " cours 14")
 ![cours](/images/3akida/darat-14-19.png " cours 14")
 
-## Cours 15 [video](https://www.youtube.com/watch?v=gIudANaG7Ck 'video')
+## Cours 15 [📹️](https://www.youtube.com/watch?v=gIudANaG7Ck 'video')
 
+![cours](/images/3akida/darat-15-2.png " cours  15")
+![cours](/images/3akida/darat-15-3.png " cours  15")
+![cours](/images/3akida/darat-15-4.png " cours  15")
+![cours](/images/3akida/darat-15-5.png " cours  15")
+![cours](/images/3akida/darat-15-6.png " cours  15")
+![cours](/images/3akida/darat-15-7.png " cours  15")
+![cours](/images/3akida/darat-15-8.png " cours  15")
+![cours](/images/3akida/darat-15-9.png " cours  15")
+![cours](/images/3akida/darat-15-10.png " cours 15")
+![cours](/images/3akida/darat-15-11.png " cours 15")
+![cours](/images/3akida/darat-15-12.png " cours 15")
+![cours](/images/3akida/darat-15-13.png " cours 15")
+![cours](/images/3akida/darat-15-14.png " cours 15")
+![cours](/images/3akida/darat-15-15.png " cours 15")
+![cours](/images/3akida/darat-15-16.png " cours 15")
+![cours](/images/3akida/darat-15-17.png " cours 15")
+![cours](/images/3akida/darat-15-18.png " cours 15")
+![cours](/images/3akida/darat-15-19.png " cours 15")
+![cours](/images/3akida/darat-15-20.png " cours 15")
+![cours](/images/3akida/darat-15-21.png " cours 15")
