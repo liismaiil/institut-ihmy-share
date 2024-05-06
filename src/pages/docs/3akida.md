@@ -270,7 +270,6 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-14-16.png " cours 14")
 ![cours](/images/3akida/darat-14-17.png " cours 14")
 ![cours](/images/3akida/darat-14-18.png " cours 14")
-![cours](/images/3akida/darat-14-19.png " cours 14")
 
 ## Cours 15 [📹️](https://www.youtube.com/watch?v=gIudANaG7Ck 'video')
 

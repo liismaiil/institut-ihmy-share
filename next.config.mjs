@@ -1,5 +1,12 @@
-import withMarkdoc from '@markdoc/next.js'
-import withSearch from './src/markdoc/search.mjs'
+import withPWA from "@ducanh2912/next-pwa";
+import withMarkdoc from '@markdoc/next.js';
+import withSearch from './src/markdoc/search.mjs';
+ const withPWAMiddleware = withPWA({
+  dest: "public",
+  disable: process.env.NODE_ENV === "development",
+   register: true,
+  //
+});
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -13,6 +20,6 @@ const nextConfig = {
    distDir: '.next',
 }
 
-export default withSearch(
+export default withPWAMiddleware(withSearch(
   withMarkdoc({ schemaPath: './src/markdoc' })(nextConfig)
-)
+))
