@@ -4,7 +4,7 @@ pageTitle: Annahwo- .
 description: Arabic gramar.
 ---
 ℹ️ [ihkam](https://ihkaam.space/ 'link')
-## Cours 1 📹 [video](https://www.youtube.com/watch?v=MoKCld6zIi4 'video')
+## Cours 1 📹 [📹️](https://www.youtube.com/watch?v=MoKCld6zIi4 'video')
 
 ![cours](/images/nahwo/nahwo1-1.png "cours 1")
 ![cours](/images/nahwo/nahwo1-2.png "cours 1")
@@ -75,7 +75,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo5-12.png " cours 5")
 ![cours](/images/nahwo/nahwo5-13.png " cours 5")
 
-## Cours 6   [video](https://www.youtube.com/watch?v=A-uqiIA6XvU 'video')
+## Cours 6   [📹️](https://www.youtube.com/watch?v=A-uqiIA6XvU 'video')
 ![cours](/images/nahwo/nahwo6-2.png " cours  6")
 ![cours](/images/nahwo/nahwo6-3.png " cours  6")
 ![cours](/images/nahwo/nahwo6-4.png " cours  6")
@@ -88,7 +88,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo6-11.png " cours 6")
 ![cours](/images/nahwo/nahwo6-12.png " cours 6")
 ![cours](/images/nahwo/nahwo6-13.png " cours 6")
-## Cours 7  [video](https://www.youtube.com/watch?v=9L6FNxm-Vdc 'video')
+## Cours 7  [📹️](https://www.youtube.com/watch?v=9L6FNxm-Vdc 'video')
 ![cours](/images/nahwo/nahwo7-2.png " cours  7")
 ![cours](/images/nahwo/nahwo7-3.png " cours  7")
 ![cours](/images/nahwo/nahwo7-4.png " cours  7")
@@ -105,7 +105,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo7-15.png " cours 7")
 ![cours](/images/nahwo/nahwo7-16.png " cours 7")
 ![cours](/images/nahwo/nahwo7-17.png " cours 7")
-## Cours 8 [video](https://www.youtube.com/watch?v=g32T7JqmEJE 'video')
+## Cours 8 [📹️](https://www.youtube.com/watch?v=g32T7JqmEJE 'video')
 
 ![cours](/images/nahwo/nahwo-8-2.png " cours  8")
 ![cours](/images/nahwo/nahwo-8-3.png " cours  8")
@@ -123,7 +123,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-8-15.png " cours 8")
 ![cours](/images/nahwo/nahwo-8-16.png " cours 8")
 ![cours](/images/nahwo/nahwo-8-17.png " cours 8")
-## Cours 9  [video](https://www.youtube.com/watch?v=ttkjWTRCe1U 'video')
+## Cours 9  [📹️](https://www.youtube.com/watch?v=ttkjWTRCe1U 'video')
 ![cours](/images/nahwo/nahwo-9-2.png " cours  9")
 ![cours](/images/nahwo/nahwo-9-3.png " cours  9")
 ![cours](/images/nahwo/nahwo-9-4.png " cours  9")
@@ -141,7 +141,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-9-16.png " cours 9")
 ![cours](/images/nahwo/nahwo-9-17.png " cours 9")
 ![cours](/images/nahwo/nahwo-9-18.png " cours 9")
-## Cours 10  [video](https://www.youtube.com/watch?v=FSdzgpOQmaw 'video')
+## Cours 10  [📹️](https://www.youtube.com/watch?v=FSdzgpOQmaw 'video')
 ![cours](/images/nahwo/nahwo-10-2.png " cours  10")
 ![cours](/images/nahwo/nahwo-10-3.png " cours  10")
 ![cours](/images/nahwo/nahwo-10-4.png " cours  10")
@@ -161,7 +161,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-10-18.png " cours 10")
 ![cours](/images/nahwo/nahwo-10-19.png " cours 10")
 ![cours](/images/nahwo/nahwo-10-20.png " cours 10")
-## Cours 11  [video](https://www.youtube.com/watch?v=f1vxGcrbCq4 'video')
+## Cours 11  [📹️](https://www.youtube.com/watch?v=f1vxGcrbCq4 'video')
 ![cours](/images/nahwo/nahwo-11-2.png " cours  11")
 ![cours](/images/nahwo/nahwo-11-3.png " cours  11")
 ![cours](/images/nahwo/nahwo-11-4.png " cours  11")
