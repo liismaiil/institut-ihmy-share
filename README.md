@@ -20,8 +20,5 @@ Finally, open [http://localhost:3000](http://localhost:3000) in your browser to 
 
 ## Customizing
 
-You can start editing this repository  by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
+You can start editing this repository  by modifying the files in the `/pages/docs` folder. feel free to copy one file and modify it , it s a regular markdown file, you can add link in the side bar by adding an entry to constants file in `/src/components` repository.
 
-## Global search
-
-This template includes a global search ,you can adjust the search parameters by editing the `/src/markdoc/search.mjs` file.
