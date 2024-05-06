@@ -10,9 +10,6 @@ import clsx from 'clsx';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { useCallback, useEffect, useState } from 'react';
-const { pathToFileURL } = require('node:url');
-
-const publicDirectory = path.dirname
 /* function GitHubIcon(props) {
   return (
     <svg aria-hidden="true" viewBox="0 0 16 16" {...props}>
