@@ -18,20 +18,20 @@ const navigation = [
       
     ],
   },
-   {
+   /* {
     title: 'Le chemin des vertueux shares',
     links: [
       { title: 'fondements ', href: '/docs/vertueux' },
       
     ],
-  },
-  {
+  }, */
+/*   {
     title: 'Contributing',
     links: [
       { title: 'How to contribute', href: '/docs/how-to-contribute' },
       { title: 'Architecture guide', href: '/docs/architecture' },
       { title: 'Design principles', href: '/docs/design' },
     ],
-  },
+  }, */
 ]
 export default navigation
