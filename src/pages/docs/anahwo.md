@@ -4,7 +4,8 @@ pageTitle: Annahwo- .
 description: Arabic gramar.
 ---
 ℹ️ [ihkam](https://ihkaam.space/ 'link')
-## Cours 1 📹 [📹️](https://www.youtube.com/watch?v=MoKCld6zIi4 'video')
+
+## Cours 1 
 
 ![cours](/images/nahwo/nahwo1-1.png "cours 1")
 ![cours](/images/nahwo/nahwo1-2.png "cours 1")
