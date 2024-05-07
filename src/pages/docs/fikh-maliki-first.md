@@ -4,7 +4,7 @@ pageTitle: al fikh almaliki première partie mokhtasar al AKHDARI  .
 description: first part of fikh al MALIKI
 ---
 
-## 1 } 0: Introduction à Mukhtassar et initiation
+## Cours 1 : Introduction à Mukhtassar et initiation
 ![cours](/images/my/fikh-maliki/first/introduction-0-0.png "cours 1")
 ![cours](/images/my/fikh-maliki/first/introduction-0-1.png "cours 1")
 ![cours](/images/my/fikh-maliki/first/introduction-0-2.png "cours 1")
@@ -23,7 +23,7 @@ description: first part of fikh al MALIKI
 ![cours](/images/my/fikh-maliki/first/introduction-0-16.png "cours 1")
 ![cours](/images/my/fikh-maliki/first/introduction-0-17.png "cours 1")
 
-## 2 } 1 akhdari Les eaux – Nettoyage des impuretés
+## Cours 2 akhdari Les eaux – Nettoyage des impuretés
 
 ![cours](/images/my/fikh-maliki/first/cours-1-1.png " cours 2")
 ![cours](/images/my/fikh-maliki/first/cours-1-2.png " cours 2")
@@ -46,7 +46,7 @@ description: first part of fikh al MALIKI
 ![cours](/images/my/fikh-maliki/first/dalil-1-1.png " dalil 1")
 ![cours](/images/my/fikh-maliki/first/dalil-1-2.png " dalil 1")
 
-## 3 } 2 Les ablutions mineures
+## Cours 3 Les ablutions mineures
 
 ![cours](/images/my/fikh-maliki/first/cours-2-1.png " cours  2")
 ![cours](/images/my/fikh-maliki/first/cours-2-2.png " cours  2")
@@ -75,7 +75,7 @@ description: first part of fikh al MALIKI
 ![cours](/images/my/fikh-maliki/first/dalil-2-1-7.png " dalil  2")
 
 
-## 4 } 3 Les ablutions Majeures
+## Cours 4  Les ablutions Majeures
 
 ![cours](/images/my/fikh-maliki/first/cours-3-1.png " cours  3")
 ![cours](/images/my/fikh-maliki/first/cours-3-2.png " cours  3")

@@ -4,8 +4,7 @@ pageTitle: Hadith-- .
 description: Pophete hadiths.
 ---
 
-## 1 Initiation aux hadith
-
+## Cours 1 Initiation aux hadith
 ![cours](/images/my/al-hadith/hadith-1-0.png "cours 1")
 ![cours](/images/my/al-hadith/hadith-1-1.png "cours 1")
 ![cours](/images/my/al-hadith/hadith-1-2.png "cours 1")
@@ -15,15 +14,11 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-1-6.png "cours 1")
 ![cours](/images/my/al-hadith/hadith-1-7.png "cours 1")
 ![cours](/images/my/al-hadith/hadith-1-8.png "cours 1")
-
-## 2 Quelques notions de la terminologie de la science du hadith
-
+## Cours 2 Quelques notions de la terminologie de la science du hadith
 ![cours](/images/my/al-hadith/hadith-2-1.png " cours 2")
 ![cours](/images/my/al-hadith/hadith-2-2.png " cours 2")
 ![cours](/images/my/al-hadith/hadith-2-3.png " cours 2")
-
-## 3 Initiation cours de hadith, terminologie de la science du hadith
-
+## Cours 3 Initiation cours de hadith, terminologie de la science du hadith
 ![cours](/images/my/al-hadith/hadith-3-1.png " cours  3")
 ![cours](/images/my/al-hadith/hadith-3-2.png " cours  3")
 ![cours](/images/my/al-hadith/hadith-3-3.png " cours  3")
@@ -34,14 +29,14 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/rapport-hadith-nb4.png " cours  3")
 ![cours](/images/my/al-hadith/tabi3in1.png " cours  3")
 ![cours](/images/my/al-hadith/hadith-3-7.png " cours  3")
-## 4 Les compilateurs et leur contribution intellectuelle
+## Cours 4 Les compilateurs et leur contribution intellectuelle
 ![cours](/images/my/al-hadith/hadith-4-1.png " cours  4")
 ![cours](/images/my/al-hadith/hadith-4-2.png " cours  4")
 ![cours](/images/my/al-hadith/hadith-4-3.png " cours  4")
 ![cours](/images/my/al-hadith/hadith-4-4.png " cours  4")
 ![cours](/images/my/al-hadith/hadith-4-5.png " cours  4")
 ![cours](/images/my/al-hadith/hadith-4-6.png " cours  4")
-## 5 Les compilateurs et leur contribution intellectuelle (suite) 
+## Cours 5 Les compilateurs et leur contribution intellectuelle (suite) 
 ![cours](/images/my/al-hadith/hadith-5-1.png " cours  5")
 ![cours](/images/my/al-hadith/hadith-5-2.png " cours  5")
 ![cours](/images/my/al-hadith/hadith-5-3.png " cours  5")
@@ -54,7 +49,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-5-hadith-nya-1.png " cours  5")
 ![cours](/images/my/al-hadith/hadith-5-hadith-nya-2.png " cours  5")
 ![cours](/images/my/al-hadith/hadith-5-hadith-nya-3.png " cours  5")
-## 6 حديثُ النِّيَّةِ Le hadith de l’intention (suite)
+## Cours 6 حديثُ النِّيَّةِ Le hadith de l’intention (suite)
 ![cours](/images/my/al-hadith/hadith-6-1.png " cours  6")
 ![cours](/images/my/al-hadith/hadith-6-2.png " cours  6")
 ![cours](/images/my/al-hadith/hadith-6-3.png " cours  6")
@@ -62,12 +57,12 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-6-5.png " cours  6")
 ![cours](/images/my/al-hadith/hadith-6-6.png " cours  6")
 ![cours](/images/my/al-hadith/hadith-6-7.png " cours  6")
-## 7 حديثُ النِّيَّةِ Le hadith de l’intention (suite 2)
+## Cours 7 حديثُ النِّيَّةِ Le hadith de l’intention (suite 2)
 ![cours](/images/my/al-hadith/hadith-7-1.png " cours  7")
 ![cours](/images/my/al-hadith/hadith-7-2.png " cours  7")
 ![cours](/images/my/al-hadith/hadith-7-3.png " cours  7")
 ![cours](/images/my/al-hadith/hadith-7-4.png " cours  7")
-## 8 حديثُ جِبْريل Le hadith de Djibril ou la mère de la sounnah
+## Cours 8 حديثُ جِبْريل Le hadith de Djibril ou la mère de la sounnah
 ![cours](/images/my/al-hadith/hadith-8-1.png " cours  8")
 ![cours](/images/my/al-hadith/hadith-8-2.png " cours  8")
 ![cours](/images/my/al-hadith/hadith-8-3.png " cours  8")
@@ -82,7 +77,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-8-12.png " cours 8")
 ![cours](/images/my/al-hadith/hadith-8-13.png " cours 8")
 
-## 9 كتاب الطهارة Le livre de la purification
+## Cours 9 كتاب الطهارة Le livre de la purification
 
 ![cours](/images/my/al-hadith/hadith-9-1.png " cours  9")
 ![cours](/images/my/al-hadith/hadith-9-2.png " cours  9")
@@ -93,7 +88,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-9-7.png " cours  9")
 ![cours](/images/my/al-hadith/hadith-9-8.png " cours  9")
 
-## 10 كتاب الطهارة Le livre de la purification
+## Cours 10 كتاب الطهارة Le livre de la purification
 
 ![cours](/images/my/al-hadith/hadith-10-1.png " cours  10")
 ![cours](/images/my/al-hadith/hadith-10-2.png " cours  10")
@@ -105,7 +100,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-10-8.png " cours  10")
 ![cours](/images/my/al-hadith/hadith-10-9.png " cours  10")
 
-## 11 كتاب الطهارة Le livre de la purification (suite1)
+## Cours 11 كتاب الطهارة Le livre de la purification (suite1)
 
 ![cours](/images/my/al-hadith/hadith-11-purification-0.png " cours  11")
 ![cours](/images/my/al-hadith/hadith-11-purification-1.png " cours  11")
@@ -122,7 +117,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-11-differentes-cat-d-eaux-6.png " cours 11")
 ![cours](/images/my/al-hadith/hadith-11-differentes-cat-d-eaux-7.png " cours 11")
 
-## 12   باب الغسل Chapitre du ghousl
+## Cours 12   باب الغسل Chapitre du ghousl
 
 ![cours](/images/my/al-hadith/hadith-12-0.png " cours  12")
 ![cours](/images/my/al-hadith/hadith-12-1.png " cours  12")
@@ -134,7 +129,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-12-7.png " cours  12")
 ![cours](/images/my/al-hadith/hadith-12-8.png " cours  12")
 
-## 13  باب الغسل Chapitre du Ghousl (suite), باب التيمم Les ablutions sèches 
+## Cours 13  باب الغسل Chapitre du Ghousl (suite), باب التيمم Les ablutions sèches 
 
 ![cours](/images/my/al-hadith/hadith-13-ghousl-0.png " cours  13")
 ![cours](/images/my/al-hadith/hadith-13-ghousl-1.png " cours  13")
@@ -143,7 +138,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-13-ablutions-seches-1.png " cours  13")
 ![cours](/images/my/al-hadith/hadith-13-ablutions-seches-2.png " cours  13")
 
-## 14 Les ablutions sèches  
+## Cours 14 Les ablutions sèches  
 
 ![cours](/images/my/al-hadith/hadith-14-0.png " cours  13")
 ![cours](/images/my/al-hadith/hadith-14-1.png " cours  13")
@@ -159,7 +154,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-14-11.png " cours 13")
 ![cours](/images/my/al-hadith/hadith-14-12.png " cours 13")
 
-## 15 La friction des chaussons de cuir  
+## Cours 15 La friction des chaussons de cuir  
 
 ![cours](/images/my/al-hadith/hadith-15-0.png " cours  13")
 ![cours](/images/my/al-hadith/hadith-15-1.png " cours  13")
@@ -170,7 +165,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-15-6.png " cours  13")
 ![cours](/images/my/al-hadith/hadith-15-7.png " cours  13")
 
-## 16 La friction des chaussons de cuir / la fréquentation du djounoub
+## Cours 16 La friction des chaussons de cuir / la fréquentation du djounoub
 
 ![cours](/images/my/al-hadith/hadith-16-0.png " cours  13")
 ![cours](/images/my/al-hadith/hadith-16-3.png " cours  13")
@@ -184,7 +179,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-16-frequentation-du-djounob-2.png " cours  13")
 ![cours](/images/my/al-hadith/hadith-16-frequentation-du-djounob-3.png " cours  13")
 
-## 17 la fréquentation du djounoub 1
+## Cours 17 la fréquentation du djounoub 1
 
 ![cours](/images/my/al-hadith/hadith-17-0.png " cours  17")
 ![cours](/images/my/al-hadith/hadith-17-1.png " cours  17")
@@ -199,7 +194,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-17-10.png " cours  17")
 ![cours](/images/my/al-hadith/hadith-17-11.png " cours  17")
 
-## 18  Chapitre les merites de la salate
+## Cours 18  Chapitre les merites de la salate
 
 ![cours](/images/my/al-hadith/hadith-18-0.png " cours  18")
 ![cours](/images/my/al-hadith/hadith-18-1.png " cours  18")
@@ -210,7 +205,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-18-6.png " cours  18")
 ![cours](/images/my/al-hadith/hadith-18-7.png " cours  18")
 
-## 19  Chapitre les merites de la salate
+## Cours 19 Chapitre les merites de la salate
 
 ![cours](/images/my/al-hadith/hadith-19-0.png " cours  19")
 ![cours](/images/my/al-hadith/hadith-19-1.png " cours  19")
@@ -221,7 +216,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-19-6.png " cours  19")
 ![cours](/images/my/al-hadith/hadith-19-7.png " cours  19")
 ![cours](/images/my/al-hadith/hadith-19-8.png " cours  19")
-## 20  Chapitre des menstrues
+## Cours 20  Chapitre des menstrues
 ![cours](/images/my/al-hadith/hadith-20-0.png " cours  20")
 ![cours](/images/my/al-hadith/hadith-20-1.png " cours  20")
 ![cours](/images/my/al-hadith/hadith-20-2.png " cours  20")
@@ -233,7 +228,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-20-8.png " cours  20")
 ![cours](/images/my/al-hadith/hadith-20-9.png " cours  20")
 
-## 21  Chapitre des menstrues (suite)
+## Cours 21  Chapitre des menstrues (suite)
 ![cours](/images/my/al-hadith/hadith-21-0.png " cours  21")
 ![cours](/images/my/al-hadith/hadith-21-1.png " cours  21")
 ![cours](/images/my/al-hadith/hadith-21-2.png " cours  21")
@@ -244,7 +239,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-21-7.png " cours  21")
 ![cours](/images/my/al-hadith/hadith-21-8.png " cours  21")
 
-## 22  باب المواقيت Chapitre des temps de la prière
+## Cours 22  باب المواقيت Chapitre des temps de la prière
 ![cours](/images/my/al-hadith/hadith-22-0.png " cours  22")
 ![cours](/images/my/al-hadith/hadith-22-1.png " cours  22")
 ![cours](/images/my/al-hadith/hadith-22-2.png " cours  22")
@@ -257,7 +252,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-22-9.png " cours  22")
 ![cours](/images/my/al-hadith/hadith-22-10.png " cours  22")
 
-## 23 كتاب العلم Le livre de la science
+## Cours 23 كتاب العلم Le livre de la science
 ![cours](/images/my/al-hadith/hadith-22-sc-b.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-22-sc-c.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-22-sc-dd.png " cours  23")
@@ -274,7 +269,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-23-8.png " cours  23")
 ![cours](/images/my/al-hadith/hadith-23-9.png " cours  23")
 
-## 24 كتاب العلم Le livre de la science suite
+## Cours 24 كتاب العلم Le livre de la science suite
 ![cours](/images/my/al-hadith/hadith-24-1.png " cours  24")
 ![cours](/images/my/al-hadith/hadith-24-2.png " cours  24")
 ![cours](/images/my/al-hadith/hadith-24-3.png " cours  24")
@@ -289,7 +284,7 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-24-12.png " cours  24")
 ![cours](/images/my/al-hadith/hadith-24-13.png " cours  24")
 
-## كِتابُ البُيوع 25 Le livre des ventes
+## Cours كِتابُ البُيوع 25 Le livre des ventes
 
 ![cours](/images/my/al-hadith/hadith-25-1.png " cours  25")
 ![cours](/images/my/al-hadith/hadith-25-2.png " cours  25")
