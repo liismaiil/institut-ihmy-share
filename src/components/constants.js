@@ -25,13 +25,14 @@ const navigation = [
       
     ],
   }, */
-/*   {
+   {
     title: 'Contributing',
     links: [
       { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture' },
+      /*{ title: 'Architecture guide', href: '/docs/architecture' },
       { title: 'Design principles', href: '/docs/design' },
+      */
+    }, 
     ],
-  }, */
 ]
 export default navigation
