@@ -32,7 +32,7 @@ const navigation = [
       /*{ title: 'Architecture guide', href: '/docs/architecture' },
       { title: 'Design principles', href: '/docs/design' },
       */
-    }, 
-    ],
+     
+    ]},
 ]
 export default navigation
