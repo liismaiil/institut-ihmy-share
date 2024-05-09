@@ -293,3 +293,20 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-15-19.png " cours 15")
 ![cours](/images/3akida/darat-15-20.png " cours 15")
 ![cours](/images/3akida/darat-15-21.png " cours 15")
+
+## Cours 16 [📹️](https://youtu.be/5yLEYZ9nGWg )
+
+![cours](/images/3akida/darat-16-1.png " cours  16")
+![cours](/images/3akida/darat-16-2.png " cours  16")
+![cours](/images/3akida/darat-16-3.png " cours  16")
+![cours](/images/3akida/darat-16-4.png " cours  16")
+![cours](/images/3akida/darat-16-5.png " cours  16")
+![cours](/images/3akida/darat-16-6.png " cours  16")
+![cours](/images/3akida/darat-16-7.png " cours  16")
+![cours](/images/3akida/darat-16-8.png " cours  16")
+![cours](/images/3akida/darat-16-9.png " cours  16")
+![cours](/images/3akida/darat-16-10.png " cours 16")
+![cours](/images/3akida/darat-16-11.png " cours 16")
+![cours](/images/3akida/darat-16-12.png " cours 16")
+![cours](/images/3akida/darat-16-13.png " cours 16")
+
