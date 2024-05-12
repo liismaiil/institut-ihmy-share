@@ -295,3 +295,15 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-25-p1-3.png " cours  25")
 ![cours](/images/my/al-hadith/hadith-25-p1-4.png " cours  25")
 ![cours](/images/my/al-hadith/hadith-25-p1-5.png " cours  25")
+
+## Cours 26 Le livre des ventes suite
+
+![cours](/images/my/al-hadith/hadith-26-1.png " cours  26")
+![cours](/images/my/al-hadith/hadith-26-2.png " cours  26")
+![cours](/images/my/al-hadith/hadith-26-3.png " cours  26")
+![cours](/images/my/al-hadith/hadith-26-4.png " cours  26")
+![cours](/images/my/al-hadith/hadith-26-5.png " cours  26")
+![cours](/images/my/al-hadith/hadith-26-6.png " cours  26")
+![cours](/images/my/al-hadith/hadith-26-7.png " cours  26")
+![cours](/images/my/al-hadith/hadith-26-8.png " cours  26")
+![cours](/images/my/al-hadith/hadith-26-9.png " cours  26")
