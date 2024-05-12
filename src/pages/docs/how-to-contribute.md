@@ -18,8 +18,8 @@ description: Quidem magni aut exercitationem maxime rerum eos.
 * 🔽 For those who have windows system you can download hyper terminal, i never used it before just an advice,
 [Download hyper](https://hyper.is/)
 
-### Usefull command  to manage slides with magick command
-* to transform pdf files to png slides  
+### - Usefull commands
+*  to manage slides, to transform pdf files to png ones  
  
 ```bash
  magick الدرس\ \(14\)\ المخصصات\ المنفصلة.pdf    osoul-14.png
