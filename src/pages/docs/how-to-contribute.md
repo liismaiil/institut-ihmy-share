@@ -23,7 +23,6 @@ description: Quidem magni aut exercitationem maxime rerum eos.
  
 ```bash
  magick الدرس\ \(14\)\ المخصصات\ المنفصلة.pdf    osoul-14.png
-
 ```
 * you can either reduce the image png heavy to resize it
 
@@ -35,5 +34,9 @@ description: Quidem magni aut exercitationem maxime rerum eos.
 
 ```bash
    mv *.png.webp[]/public/images/[rep]/
+```
+* 🔽 usefull library in order to optimize and to downsize png images, we improve theme with webp encoder  [Download libwebp](https://developers.google.com/speed/webp/docs/precompiled?hl=fr)
 
+```bash
+find $src_dir  -maxdepth 3 -mindepth 1 -type f -iname "*.png" -exec  cwebp {} -o {}.webp \; 
 ```
