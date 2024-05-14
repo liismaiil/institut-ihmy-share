@@ -5,15 +5,15 @@ description: Cours about protection about all polyteists ideas .
 ---
 
 ## Cours 1
-![cours](/images/tahsin/tahsin1-0.png.webp"cours 1")
-![cours](/images/tahsin/tahsin1-1.png.webp"cours 1")
-![cours](/images/tahsin/tahsin1-2.png.webp"cours 1")
-![cours](/images/tahsin/tahsin1-3.png.webp"cours 1")
-![cours](/images/tahsin/tahsin1-4.png.webp"cours 1")
-![cours](/images/tahsin/tahsin1-5.png.webp"cours 1")
-![cours](/images/tahsin/tahsin1-6.png.webp"cours 1")
-![cours](/images/tahsin/tahsin1-7.png.webp"cours 1")
-![cours](/images/tahsin/tahsin1-8.png.webp"cours 1")
+![cours](/images/tahsin/tahsin1-0.png.webp "cours 1")
+![cours](/images/tahsin/tahsin1-1.png.webp "cours 1")
+![cours](/images/tahsin/tahsin1-2.png.webp "cours 1")
+![cours](/images/tahsin/tahsin1-3.png.webp "cours 1")
+![cours](/images/tahsin/tahsin1-4.png.webp "cours 1")
+![cours](/images/tahsin/tahsin1-5.png.webp "cours 1")
+![cours](/images/tahsin/tahsin1-6.png.webp "cours 1")
+![cours](/images/tahsin/tahsin1-7.png.webp "cours 1")
+![cours](/images/tahsin/tahsin1-8.png.webp "cours 1")
 
 ## Cours 2
 
