@@ -140,15 +140,15 @@ description: al fikh almaliki matn Ibn 3achir
 
 ### dalil 5
 
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-0.png.webp"dalil  18")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-1.png.webp"dalil  18")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-2.png.webp"dalil  18")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-3.png.webp"dalil  18")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-4.png.webp"dalil  18")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-5.png.webp"dalil  18")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-6.png.webp"dalil  18")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-7.png.webp"dalil  18")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-9.png.webp"dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-0.png.webp  "dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-1.png.webp  "dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-2.png.webp  "dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-3.png.webp  "dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-4.png.webp  "dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-5.png.webp  "dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-6.png.webp  "dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-7.png.webp  "dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-9.png.webp  "dalil  18")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-10.png.webp "dalil  18")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-11.png.webp "dalil  18")
 
@@ -206,16 +206,16 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-17.png.webp  "cours 7")
 
 ### dalil 7
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-0.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-1.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-2.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-3.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-4.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-5.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-6.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-7.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-8.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-9.png.webp"dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-0.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-1.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-2.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-3.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-4.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-5.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-6.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-7.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-8.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-20-9.png.webp  "dalil  20")
 
 ## 21} 8 : Les prosternations de distraction
 
@@ -237,11 +237,11 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-15.png.webp  "cours 8")
 
 ### dalil 8
-![cours](/images/my/fikh-maliki/second/dalil-8-0.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-8-1.png.webp"dalil  23")
-![cours](/images/my/fikh-maliki/second/dalil-8-2.png.webp"dalil  23")
-![cours](/images/my/fikh-maliki/second/dalil-8-3.png.webp"dalil  23")
-![cours](/images/my/fikh-maliki/second/dalil-8-4.png.webp"dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-0.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-8-1.png.webp  "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-2.png.webp  "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-3.png.webp  "dalil  23")
+![cours](/images/my/fikh-maliki/second/dalil-8-4.png.webp  "dalil  23")
 
 ## 22} 9 : La prière du vendredi – La prière en groupe
 
@@ -269,12 +269,12 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-21.png.webp  "cours 9")
 
 ### dalil 9
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-0.png.webp"dalil  20")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-1.png.webp"dalil  22")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-2.png.webp"dalil  22")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-3.png.webp"dalil  22")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-4.png.webp"dalil  22")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-5.png.webp"dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-0.png.webp  "dalil  20")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-1.png.webp  "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-2.png.webp  "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-3.png.webp  "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-4.png.webp  "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-5.png.webp  "dalil  22")
 
 ## 23} 10 : La Zakat (Partie 1)
 
@@ -299,12 +299,12 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-18.png.webp  "cours 10")
 
 ### dalil 10
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-0.png.webp"dalil  10")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-1.png.webp"dalil  10")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-2.png.webp"dalil  10")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-3.png.webp"dalil  10")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-4.png.webp"dalil  10")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-5.png.webp"dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-0.png.webp  "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-1.png.webp  "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-2.png.webp  "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-3.png.webp  "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-4.png.webp  "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-5.png.webp  "dalil  10")
 
 ## 24} 11 : La Zakat (Partie 2)
 
@@ -329,9 +329,9 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p2-18.png.webp  "cours 10")
 
 ### dalil 11
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p2-0.png.webp"dalil  10")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p2-1.png.webp"dalil  10")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p2-2.png.webp"dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p2-0.png.webp  "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p2-1.png.webp  "dalil  10")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p2-2.png.webp  "dalil  10")
 
 ## 21 } 13 :  Matn Ibn Ashir - Le jeûne - partie 1- 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-0.png.webp  "cours  13")
@@ -348,18 +348,18 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-11.png.webp  "cours 13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-12.png.webp  "cours 13")
 ### dalil 13
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-0.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-1.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-2.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-3.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-4.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-5.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-6.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-7.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-8.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-9.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-10.png.webp"dalil  21")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-11.png.webp"dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-0.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-1.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-2.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-3.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-4.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-5.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-6.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-7.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-8.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-9.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-10.png.webp  "dalil  21")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-11.png.webp  "dalil  21")
 
 ## 22 } 14 :  Matn Ibn Ashir - Le jeûne - partie 2- 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-0.png.webp  "cours  13")
@@ -379,10 +379,10 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-14.png.webp  "cours 13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-15.png.webp  "cours 13")
 ### dalil 14
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-0.png.webp"dalil  22")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-1.png.webp"dalil  22")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-2.png.webp"dalil  22")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-3.png.webp"dalil  22")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-4.png.webp"dalil  22")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-5.png.webp"dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-0.png.webp  "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-1.png.webp  "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-2.png.webp  "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-3.png.webp  "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-4.png.webp  "dalil  22")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-5.png.webp  "dalil  22")
 
