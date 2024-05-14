@@ -28,12 +28,12 @@ description: Quidem magni aut exercitationem maxime rerum eos.
 * you can either reduce the image png heavy to resize it
 
 ```bash
-    magick hadith-22-sc-f.png  -resize 50%   hadith-22-sc-ff.png  
+    magick hadith-22-sc-f.png.webp -resize 50%   hadith-22-sc-ff.png.webp 
 ```
 
 * then you can use all the png files in the tutorial movr them to '/public/image/[rep]/*' 
 
 ```bash
-   mv *.png []/public/images/[rep]/
+   mv *.png.webp[]/public/images/[rep]/
 
 ```
