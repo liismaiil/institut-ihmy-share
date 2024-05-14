@@ -5,15 +5,15 @@ description: Pophete hadiths.
 ---
 
 ## Cours 1 Initiation aux hadith
-![cours](/images/my/al-hadith/hadith-1-0.png.webp"cours 1")
-![cours](/images/my/al-hadith/hadith-1-1.png.webp"cours 1")
-![cours](/images/my/al-hadith/hadith-1-2.png.webp"cours 1")
-![cours](/images/my/al-hadith/hadith-1-3.png.webp"cours 1")
-![cours](/images/my/al-hadith/hadith-1-4.png.webp"cours 1")
-![cours](/images/my/al-hadith/hadith-1-5.png.webp"cours 1")
-![cours](/images/my/al-hadith/hadith-1-6.png.webp"cours 1")
-![cours](/images/my/al-hadith/hadith-1-7.png.webp"cours 1")
-![cours](/images/my/al-hadith/hadith-1-8.png.webp"cours 1")
+![cours](/images/my/al-hadith/hadith-1-0.png.webp "cours 1")
+![cours](/images/my/al-hadith/hadith-1-1.png.webp "cours 1")
+![cours](/images/my/al-hadith/hadith-1-2.png.webp "cours 1")
+![cours](/images/my/al-hadith/hadith-1-3.png.webp "cours 1")
+![cours](/images/my/al-hadith/hadith-1-4.png.webp "cours 1")
+![cours](/images/my/al-hadith/hadith-1-5.png.webp "cours 1")
+![cours](/images/my/al-hadith/hadith-1-6.png.webp "cours 1")
+![cours](/images/my/al-hadith/hadith-1-7.png.webp "cours 1")
+![cours](/images/my/al-hadith/hadith-1-8.png.webp "cours 1")
 ## Cours 2 Quelques notions de la terminologie de la science du hadith
 ![cours](/images/my/al-hadith/hadith-2-1.png.webp "cours 2")
 ![cours](/images/my/al-hadith/hadith-2-2.png.webp "cours 2")
