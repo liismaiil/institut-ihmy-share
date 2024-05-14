@@ -234,7 +234,6 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-15-8.png.webp "cours  15")
 ![cours](/images/nahwo/nahwo-15-9.png.webp "cours  15")
 ![cours](/images/nahwo/nahwo-15-10.png.webp "cours 15")
-![cours](/images/nahwo/nahwo-15-11.png.webp "cours 15")
 
 ## Cours 16 [📹️]( https://www.youtube.com/watch?v=xti_GviLw_U )
 ![cours](/images/nahwo/nahwo-16-2.png.webp "cours  16")

@@ -333,6 +333,28 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p2-1.png.webp  "dalil  10")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p2-2.png.webp  "dalil  10")
 
+## 25} 12 : La Zakat (Partie 3)
+
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-0.png.webp  "cours  12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-1.png.webp  "cours  12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-2.png.webp  "cours  12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-3.png.webp  "cours  12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-4.png.webp  "cours  12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-5.png.webp  "cours  12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-6.png.webp  "cours  12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-7.png.webp  "cours  12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-8.png.webp  "cours  12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-9.png.webp  "cours  12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-10.png.webp  "cours 12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-11.png.webp  "cours 12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-12.png.webp  "cours 12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-13.png.webp  "cours 12")
+
+### dalil 12
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-12--0.png.webp  "dalil  12")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-12--1.png.webp  "dalil  12")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-12--2.png.webp  "dalil  12")
+
 ## 21 } 13 :  Matn Ibn Ashir - Le jeûne - partie 1- 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-0.png.webp  "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-1.png.webp  "cours  13")
