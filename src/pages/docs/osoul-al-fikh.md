@@ -6,15 +6,15 @@ description: Cours about foundation of juridiction some rules.
 
 ## Cours 1
 
-![cours](/images/osoul/osoul1-0.png.webp"cours 1")
-![cours](/images/osoul/osoul1-1.png.webp"cours 1")
-![cours](/images/osoul/osoul1-2.png.webp"cours 1")
-![cours](/images/osoul/osoul1-3.png.webp"cours 1")
-![cours](/images/osoul/osoul1-4.png.webp"cours 1")
-![cours](/images/osoul/osoul1-5.png.webp"cours 1")
-![cours](/images/osoul/osoul1-6.png.webp"cours 1")
-![cours](/images/osoul/osoul1-7.png.webp"cours 1")
-![cours](/images/osoul/osoul1-8.png.webp"cours 1")
+![cours](/images/osoul/osoul1-0.png.webp  "cours 1")
+![cours](/images/osoul/osoul1-1.png.webp  "cours 1")
+![cours](/images/osoul/osoul1-2.png.webp  "cours 1")
+![cours](/images/osoul/osoul1-3.png.webp  "cours 1")
+![cours](/images/osoul/osoul1-4.png.webp  "cours 1")
+![cours](/images/osoul/osoul1-5.png.webp  "cours 1")
+![cours](/images/osoul/osoul1-6.png.webp  "cours 1")
+![cours](/images/osoul/osoul1-7.png.webp  "cours 1")
+![cours](/images/osoul/osoul1-8.png.webp  "cours 1")
 
 ## Cours 2
 
