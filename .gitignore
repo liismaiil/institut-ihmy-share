@@ -27,7 +27,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
-
+CONTRIBUTING.md
 # vercel
 .vercel
 **/public/sw.js

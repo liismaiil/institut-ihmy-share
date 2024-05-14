@@ -149,8 +149,8 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-6.png.webp"dalil  18")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-7.png.webp"dalil  18")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-9.png.webp"dalil  18")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-10.png.webp" dalil  18")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-11.png.webp" dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-10.png.webp "dalil  18")
+![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-11.png.webp "dalil  18")
 
 
 ## 19 } 6 : Adhen et réduction des prières - 
