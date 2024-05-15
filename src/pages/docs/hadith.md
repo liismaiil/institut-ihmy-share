@@ -307,3 +307,13 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-26-7.png.webp "cours  26")
 ![cours](/images/my/al-hadith/hadith-26-8.png.webp "cours  26")
 ![cours](/images/my/al-hadith/hadith-26-9.png.webp "cours  26")
+
+## Cours 27 le livre des testaments et كِتابُ النكاح Le livre du mariage
+
+![cours](/images/my/al-hadith/hadith-27-1.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-2.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-3.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-4.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-5.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-6.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-7.png.webp "cours  27")
