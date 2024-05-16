@@ -253,7 +253,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-16-12.png.webp "cours 16 ")
 ![cours](/images/osoul/osoul-16-13.png.webp "cours 16 ")
 
-Cours 17 [📹️](https://youtu.be/aROZz_gTnEw)
+## Cours 17 [📹️](https://youtu.be/aROZz_gTnEw)
 
 ![cours](/images/osoul/osoul-17-1.png.webp "cours  17 ")
 ![cours](/images/osoul/osoul-17-2.png.webp "cours  17 ")
