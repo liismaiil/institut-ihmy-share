@@ -10,13 +10,14 @@ export function Navigation({ navigation, className }) {
   useEffect(() => {
     console.log({ subMenu });
   }, [subMenu]);
+  const [sectionOpen, setSectionOpen] = useState(false);
 
   return (
     <nav className={clsx('text-base lg:text-sm', className)}>
       <ul role="list" className="space-y-9">
         {navigation.map((section, index) => (
           <li key={section.title} style={{ cursor: 'pointer' }} onClick={() => setSubMenu((prev) => {
-            console.log({ prev, index, subMenu });
+            // console.log({ prev, index, subMenu });
             if (typeof subMenu === 'undefined' || typeof prev === 'undefined') {
               return index
             } else {
@@ -35,6 +36,7 @@ export function Navigation({ navigation, className }) {
                     ? 'font-semibold text-sky-500 before:bg-sky-500'
                     : 'text-slate-500 before:hidden before:bg-slate-300 hover:text-slate-600 hover:before:block dark:text-slate-400 dark:before:bg-slate-700 dark:hover:text-slate-300'
                 )}
+                onClick={() => setSectionOpen(true)}
               >{section.title}
               </Link>
             </h2>

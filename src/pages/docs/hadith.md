@@ -317,3 +317,8 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-27-5.png.webp "cours  27")
 ![cours](/images/my/al-hadith/hadith-27-6.png.webp "cours  27")
 ![cours](/images/my/al-hadith/hadith-27-7.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-s-0.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-s-1.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-s-2.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-s-3.png.webp "cours  27")
+![cours](/images/my/al-hadith/hadith-27-s-4.png.webp "cours  27")
