@@ -332,6 +332,5 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-17-18.png.webp "cours 17")
 ![cours](/images/tahsin/tahsin-17-19.png.webp "cours 17")
 ![cours](/images/tahsin/tahsin-17-20.png.webp "cours 17")
-![cours](/images/tahsin/tahsin-17-21.png.webp "cours 17")
 
       
