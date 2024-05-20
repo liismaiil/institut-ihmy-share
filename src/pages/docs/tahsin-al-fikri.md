@@ -310,3 +310,28 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-16-21.png.webp "cours 16")
 ![cours](/images/tahsin/tahsin-16-22.png.webp "cours 16")
 
+
+## Cours 17  [📹️](https://youtu.be/udc59UNjmzw)
+![cours](/images/tahsin/tahsin-17-1.png.webp "cours  17")
+![cours](/images/tahsin/tahsin-17-2.png.webp "cours  17")
+![cours](/images/tahsin/tahsin-17-3.png.webp "cours  17")
+![cours](/images/tahsin/tahsin-17-4.png.webp "cours  17")
+![cours](/images/tahsin/tahsin-17-5.png.webp "cours  17")
+![cours](/images/tahsin/tahsin-17-6.png.webp "cours  17")
+![cours](/images/tahsin/tahsin-17-7.png.webp "cours  17")
+![cours](/images/tahsin/tahsin-17-8.png.webp "cours  17")
+![cours](/images/tahsin/tahsin-17-9.png.webp "cours  17")
+![cours](/images/tahsin/tahsin-17-10.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-11.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-12.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-13.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-14.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-15.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-16.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-17.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-18.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-19.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-20.png.webp "cours 17")
+![cours](/images/tahsin/tahsin-17-21.png.webp "cours 17")
+
+      
