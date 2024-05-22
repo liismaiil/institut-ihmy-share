@@ -322,3 +322,18 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-27-s-2.png.webp "cours  27")
 ![cours](/images/my/al-hadith/hadith-27-s-3.png.webp "cours  27")
 ![cours](/images/my/al-hadith/hadith-27-s-4.png.webp "cours  27")
+
+## Cours 28 كِتابُ النكاح Le livre du mariage
+
+![cours](/images/my/al-hadith/hadith-28-1.png.webp "cours  28")
+![cours](/images/my/al-hadith/hadith-28-2.png.webp "cours  28")
+![cours](/images/my/al-hadith/hadith-28-3.png.webp "cours  28")
+![cours](/images/my/al-hadith/hadith-28-4.png.webp "cours  28")
+![cours](/images/my/al-hadith/hadith-28-5.png.webp "cours  28")
+![cours](/images/my/al-hadith/hadith-28-6.png.webp "cours  28")
+![cours](/images/my/al-hadith/hadith-28-7.png.webp "cours  28")
+![cours](/images/my/al-hadith/hadith-28-8.png.webp "cours  28")
+![cours](/images/my/al-hadith/hadith-28-9.png.webp "cours  28")
+![cours](/images/my/al-hadith/hadith-28-10.png.webp "cours 28")
+![cours](/images/my/al-hadith/hadith-28-11.png.webp "cours 28")
+![cours](/images/my/al-hadith/hadith-28-12.png.webp "cours 28")
