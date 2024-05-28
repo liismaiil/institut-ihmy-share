@@ -3,6 +3,7 @@ title: Osoul al fikh
 pageTitle: Osoul Al fikh- .
 description: Cours about foundation of juridiction some rules.
 ---
+ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
 
 ## Cours 1
 

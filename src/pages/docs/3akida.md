@@ -3,6 +3,7 @@ title: 3akida
 pageTitle: 3akida Darat albayan - .
 description: Cours about foundations of dogme .
 ---
+ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
 
 ## Cours 1 [📹️](https://youtu.be/i1VlSYjBQhU 'video')
 

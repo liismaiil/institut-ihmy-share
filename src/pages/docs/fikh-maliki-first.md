@@ -3,6 +3,7 @@ title: al fikh al maliki mokhtasar AL Akhdari
 pageTitle: al fikh almaliki première partie mokhtasar al AKHDARI  .
 description: first part of fikh al MALIKI
 ---
+ℹ️ [mydars](https://mydars.space/ 'mydars institut')
 
 ## Cours 1 : Introduction à Mukhtassar et initiation
 ![cours](/images/my/fikh-maliki/first/introduction-0-0.png.webp  "cours 1")

@@ -3,6 +3,7 @@ title: al fikh almaliki matn Ibn 3achir
 pageTitle: al fikh almaliki  matn Ibn 3achir.
 description: al fikh almaliki matn Ibn 3achir  
 ---
+ℹ️ [mydars](https://mydars.space/ 'mydars institut')
 
 ## 14 } 1 :Présentation et Introduction du support
  

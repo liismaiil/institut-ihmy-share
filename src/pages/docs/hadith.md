@@ -3,6 +3,7 @@ title: Hadith
 pageTitle: Hadith-- .
 description: Pophete hadiths.
 ---
+ℹ️ [mydars](https://mydars.space/ 'mydars institut link')
 
 ## Cours 1 Initiation aux hadith
 ![cours](/images/my/al-hadith/hadith-1-0.png.webp "cours 1")

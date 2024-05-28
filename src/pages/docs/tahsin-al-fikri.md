@@ -3,6 +3,7 @@ title: Tahsin al fikri
 pageTitle: Tahsin al fikri- .
 description: Cours about protection about all polyteists ideas .
 ---
+ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
 
 ## Cours 1
 ![cours](/images/tahsin/tahsin1-0.png.webp "cours 1")
