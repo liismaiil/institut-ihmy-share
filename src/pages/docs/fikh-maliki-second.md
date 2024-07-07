@@ -416,7 +416,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-15-p1-3.png.webp  "cours  15")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-15-p1-4.png.webp  "cours  15")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-15-p1-5.png.webp  "cours  15")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-15-p1-5.png.webp  "cours  15")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-15-p1-6.png.webp  "cours  15")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-15-p1-7.png.webp  "cours  15")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-15-p1-8.png.webp  "cours  15")
@@ -444,7 +443,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-16-p2-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-16-p2-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-16-p2-4.png.webp  "page 4")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-16-p2-5.png.webp  "page 5")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-16-p2-5.png.webp  "page 5")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-16-p2-6.png.webp  "page 6")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-16-p2-7.png.webp  "page 7")
@@ -479,8 +477,8 @@ description: al fikh almaliki matn Ibn 3achir
 
 ## 30} cours  17 : Matn Ibn Ashir Le pèlerinage (Partie 3)
 
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-17-p3-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-17-p3-4.png.webp  "page 4")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-17-p3-5.png.webp  "page 5")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-17-p3-5.png.webp  "page 5")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-17-p3-6.png.webp  "page 6")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-17-p3-7.png.webp  "page 7")
@@ -510,8 +508,8 @@ description: al fikh almaliki matn Ibn 3achir
 
 ## 31} cours  18 : Matn Ibn Ashir Le pèlerinage (Partie 4)
 
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-18-p4-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-18-p4-4.png.webp  "page 4")
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-18-p4-5.png.webp  "page 5")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-18-p4-5.png.webp  "page 5")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-18-p4-6.png.webp  "page 6")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-18-p4-7.png.webp  "page 7")
@@ -540,3 +538,21 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-p4-7.png.webp  "page 7")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-p4-8.png.webp  "page 8")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-p4-9.png.webp  "page 9")
+
+## 32} cours  19 : Matn Ibn Ashir Le cheminement spirituel
+
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-4.png.webp  "page 4")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-5.png.webp  "page 5")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-6.png.webp  "page 6")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-7.png.webp  "page 7")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-8.png.webp  "page 8")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-9.png.webp  "page 9")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-10.png.webp  "page 10")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-11.png.webp  "page 11")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-12.png.webp  "page 12")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-13.png.webp  "page 13")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-14.png.webp  "page 14")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-15.png.webp  "page 15")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-16.png.webp  "page 16")
+![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-17.png.webp  "page 17")
