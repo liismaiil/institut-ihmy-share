@@ -336,7 +336,6 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-17-21.png.webp " cours 17")
 ![cours](/images/3akida/darat-17-22.png.webp " cours 17")
 
-
 ## Cours 18 [📹️](https://youtu.be/G62NUIVIYKs )
 
 ![cours](/images/3akida/darat-18-1.png.webp "page 1")
@@ -362,3 +361,28 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-18-21.png.webp "page 21")
 ![cours](/images/3akida/darat-18-22.png.webp "page 22")
 ![cours](/images/3akida/darat-18-23.png.webp "page 22")
+
+## Cours 19 [📹️](https://youtu.be/5AOiUOW9mrc )
+
+![cours](/images/3akida/darat-19-1.png.webp "page 1")
+![cours](/images/3akida/darat-19-2.png.webp "page 2")
+![cours](/images/3akida/darat-19-3.png.webp "page 3")
+![cours](/images/3akida/darat-19-4.png.webp "page 4")
+![cours](/images/3akida/darat-19-5.png.webp "page 5")
+![cours](/images/3akida/darat-19-6.png.webp "page 6")
+![cours](/images/3akida/darat-19-7.png.webp "page 7")
+![cours](/images/3akida/darat-19-8.png.webp "page 8")
+![cours](/images/3akida/darat-19-9.png.webp "page 9")
+![cours](/images/3akida/darat-19-10.png.webp "page 10")
+![cours](/images/3akida/darat-19-11.png.webp "page 11")
+![cours](/images/3akida/darat-19-12.png.webp "page 12")
+![cours](/images/3akida/darat-19-13.png.webp "page 13")
+![cours](/images/3akida/darat-19-14.png.webp "page 14")
+![cours](/images/3akida/darat-19-15.png.webp "page 15")
+![cours](/images/3akida/darat-19-16.png.webp "page 16")
+![cours](/images/3akida/darat-19-17.png.webp "page 17")
+![cours](/images/3akida/darat-19-18.png.webp "page 18")
+![cours](/images/3akida/darat-19-19.png.webp "page 19")
+![cours](/images/3akida/darat-19-20.png.webp "page 20")
+![cours](/images/3akida/darat-19-21.png.webp "page 21")
+![cours](/images/3akida/darat-19-22.png.webp "page 22")
