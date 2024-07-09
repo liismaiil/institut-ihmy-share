@@ -402,6 +402,7 @@ description: Cours about foundations of dogme .
 ![cours](/images/3akida/darat-20-9.png.webp "page 9")
 ![cours](/images/3akida/darat-20-10.png.webp "page 10")
 ![cours](/images/3akida/darat-20-11.png.webp "page 11")
+![cours](/images/3akida/darat-20-12.png.webp "page 12")
 ![cours](/images/3akida/darat-20-13.png.webp "page 13")
 ![cours](/images/3akida/darat-20-14.png.webp "page 14")
 ![cours](/images/3akida/darat-20-15.png.webp "page 15")
