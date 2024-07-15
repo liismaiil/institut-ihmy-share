@@ -15,6 +15,7 @@ const navigation = [
       { title: 'hadiths', href: '/docs/hadith' },
       { title: 'al fikh al maliki I', href: '/docs/fikh-maliki-first' },
       { title: 'al fikh al maliki II', href: '/docs/fikh-maliki-second' },
+      { title: 'al fikh al maliki III', href: '/docs/fikh-maliki-third' },
       
     ],
   },
