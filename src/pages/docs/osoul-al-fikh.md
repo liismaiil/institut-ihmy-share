@@ -3,9 +3,9 @@ title: Osoul al fikh
 pageTitle: Osoul Al fikh- .
 description: Cours about foundation of juridiction some rules.
 ---
-ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
+## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
 
-## Cours 1
+### Cours 1
 
 ![cours](/images/osoul/osoul1-0.png.webp  "cours 1")
 ![cours](/images/osoul/osoul1-1.png.webp  "cours 1")
@@ -17,7 +17,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul1-7.png.webp  "cours 1")
 ![cours](/images/osoul/osoul1-8.png.webp  "cours 1")
 
-## Cours 2
+### Cours 2
 
 ![cours](/images/osoul/osoul2-2.png.webp "cours 2")
 ![cours](/images/osoul/osoul2-3.png.webp "cours 2")
@@ -25,7 +25,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul2-5.png.webp "cours 2")
 
 
-## Cours 3
+### Cours 3
 
 ![cours](/images/osoul/osoul3-2.png.webp "cours  3")
 ![cours](/images/osoul/osoul3-3.png.webp "cours  3")
@@ -38,7 +38,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul3-10.png.webp "cours 3")
 ![cours](/images/osoul/osoul3-11.png.webp "cours 3")
 
-## Cours 4 [📹️](https://youtu.be/Y6GwtLIqdpI 'lecture')
+### Cours 4 [📹️](https://youtu.be/Y6GwtLIqdpI 'lecture')
 
 ![cours](/images/osoul/osoul4-2.png.webp "cours  4")
 ![cours](/images/osoul/osoul4-3.png.webp "cours  4")
@@ -48,7 +48,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul4-7.png.webp "cours  4")
 ![cours](/images/osoul/osoul4-8.png.webp "cours  4")
 
-## Cours 5 [📹️](https://youtu.be/Y6GwtLIqdpI 'lecture')
+### Cours 5 [📹️](https://youtu.be/Y6GwtLIqdpI 'lecture')
 
 ![cours](/images/osoul/osoul5-2.png.webp "cours  5")
 ![cours](/images/osoul/osoul5-3.png.webp "cours  5")
@@ -64,7 +64,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul5-13.png.webp "cours 5")
 ![cours](/images/osoul/osoul5-14.png.webp "cours 5")
 
-## Cours 6 [📹️](https://youtu.be/xeZP5Bjfo0s 'lecture')
+### Cours 6 [📹️](https://youtu.be/xeZP5Bjfo0s 'lecture')
 
 ![cours](/images/osoul/osoul6-2.png.webp "cours  6")
 ![cours](/images/osoul/osoul6-3.png.webp "cours  6")
@@ -83,7 +83,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul6-16.png.webp "cours 6")
 ![cours](/images/osoul/osoul6-17.png.webp "cours 6")
 
-## Cours 7 [📹️](https://youtu.be/ivqfr7XmUJE 'lecture')
+### Cours 7 [📹️](https://youtu.be/ivqfr7XmUJE 'lecture')
 
 ![cours](/images/osoul/osoul7-2.png.webp "cours  7")
 ![cours](/images/osoul/osoul7-3.png.webp "cours  7")
@@ -100,7 +100,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul7-14.png.webp "cours 7")
 ![cours](/images/osoul/osoul7-15.png.webp "cours 7")
 
-## Cours 8 [📹️](https://youtu.be/407UTfnc1ds 'lecture')
+### Cours 8 [📹️](https://youtu.be/407UTfnc1ds 'lecture')
 
 ![cours](/images/osoul/osoul8-2.png.webp "cours  8")
 ![cours](/images/osoul/osoul8-3.png.webp "cours  8")
@@ -119,7 +119,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul8-16.png.webp "cours 8")
 ![cours](/images/osoul/osoul8-17.png.webp "cours 8")
 
-## Cours 9 [📹️]( https://www.youtube.com/watch?v=JBpH1oJPwdM 'course lecture')
+### Cours 9 [📹️]( https://www.youtube.com/watch?v=JBpH1oJPwdM 'course lecture')
 ![cours](/images/osoul/osoul-9-2.png.webp "cours  9")
 ![cours](/images/osoul/osoul-9-3.png.webp "cours  9")
 ![cours](/images/osoul/osoul-9-4.png.webp "cours  9")
@@ -139,7 +139,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-9-18.png.webp "cours 9")
 ![cours](/images/osoul/osoul-9-19.png.webp "cours 9")
 
-## Cours 10 [📹️]( https://www.youtube.com/watch?v=gbhuOTItOtg 'course lecture')
+### Cours 10 [📹️]( https://www.youtube.com/watch?v=gbhuOTItOtg 'course lecture')
 
 ![cours](/images/osoul/osoul-10-2.png.webp "cours  10")
 ![cours](/images/osoul/osoul-10-3.png.webp "cours  10")
@@ -157,7 +157,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-10-15.png.webp "cours 10")
 ![cours](/images/osoul/osoul-10-16.png.webp "cours 10")
 
-## Cours 11 [📹️]( https://www.youtube.com/watch?v=GcFc-iupjLs 'course lecture')
+### Cours 11 [📹️]( https://www.youtube.com/watch?v=GcFc-iupjLs 'course lecture')
 
 ![cours](/images/osoul/osoul-11-2.png.webp "cours  11")
 ![cours](/images/osoul/osoul-11-3.png.webp "cours  11")
@@ -176,7 +176,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-11-16.png.webp "cours 11")
 ![cours](/images/osoul/osoul-11-17.png.webp "cours 11")
 
-## Cours 12 [📹️]( https://www.youtube.com/watch?v=SRhIscabNXg 'course lecture')
+### Cours 12 [📹️]( https://www.youtube.com/watch?v=SRhIscabNXg 'course lecture')
 
 ![cours](/images/osoul/osoul-12-2.png.webp "cours  12")
 ![cours](/images/osoul/osoul-12-3.png.webp "cours  12")
@@ -189,7 +189,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-12-10.png.webp "cours  12")
 ![cours](/images/osoul/osoul-12-11.png.webp "cours  12")
 
-## Cours 13 [📹️]( https://www.youtube.com/watch?v=dKuuGfztjB0 'course lecture')
+### Cours 13 [📹️]( https://www.youtube.com/watch?v=dKuuGfztjB0 'course lecture')
 
 
 ![cours](/images/osoul/osoul-13-2.png.webp "cours  13 ")
@@ -206,7 +206,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-13-13.png.webp "cours 13 ")
 ![cours](/images/osoul/osoul-13-14.png.webp "cours 13 ")
 
-## Cours 14 [📹️]( https://www.youtube.com/watch?v=6yznhkHAITY 'course lecture')
+### Cours 14 [📹️]( https://www.youtube.com/watch?v=6yznhkHAITY 'course lecture')
 
 ![cours](/images/osoul/osoul-14-2.png.webp "cours  14 ")
 ![cours](/images/osoul/osoul-14-3.png.webp "cours  14 ")
@@ -224,7 +224,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-14-15.png.webp "cours 14 ")
 ![cours](/images/osoul/osoul-14-16.png.webp "cours 14 ")
 
-## Cours 15 [📹️](https://www.youtube.com/watch?v=Wjqdv9Cn0OI 'course lecture')
+### Cours 15 [📹️](https://www.youtube.com/watch?v=Wjqdv9Cn0OI 'course lecture')
 
 ![cours](/images/osoul/osoul-15-1.png.webp "cours  15 ")
 ![cours](/images/osoul/osoul-15-2.png.webp "cours  15 ")
@@ -238,7 +238,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-15-10.png.webp "cours 15 ")
 ![cours](/images/osoul/osoul-15-11.png.webp "cours 15 ")
 
-## Cours 16 [📹️](https://youtu.be/AFE5FEUhYmM)
+### Cours 16 [📹️](https://youtu.be/AFE5FEUhYmM)
 
 ![cours](/images/osoul/osoul-16-1.png.webp "cours  16 ")
 ![cours](/images/osoul/osoul-16-2.png.webp "cours  16 ")
@@ -254,7 +254,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-16-12.png.webp "cours 16 ")
 ![cours](/images/osoul/osoul-16-13.png.webp "cours 16 ")
 
-## Cours 17 [📹️](https://youtu.be/aROZz_gTnEw)
+### Cours 17 [📹️](https://youtu.be/aROZz_gTnEw)
 
 ![cours](/images/osoul/osoul-17-1.png.webp "cours  17 ")
 ![cours](/images/osoul/osoul-17-2.png.webp "cours  17 ")
@@ -274,7 +274,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-17-16.png.webp "cours 17 ")
 ![cours](/images/osoul/osoul-17-17.png.webp "cours 17 ")
 ![cours](/images/osoul/osoul-17-18.png.webp "cours 17 ")
-## Cours 18 [📹️](https://www.youtube.com/watch?v=ZT033yXIZ7c)
+### Cours 18 [📹️](https://www.youtube.com/watch?v=ZT033yXIZ7c)
 
 ![cours](/images/osoul/osoul-18-2.png.webp "page 2 ")
 ![cours](/images/osoul/osoul-18-3.png.webp "page 3 ")
@@ -290,7 +290,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-18-13.png.webp "page 13")
 ![cours](/images/osoul/osoul-18-14.png.webp "page 14")
 ![cours](/images/osoul/osoul-18-15.png.webp "page 15")
-## Cours 19 [📹️](https://www.youtube.com/watch?v=YmaaLwFbpVU)
+### Cours 19 [📹️](https://www.youtube.com/watch?v=YmaaLwFbpVU)
 
 ![cours](/images/osoul/osoul-19-2.png.webp "page 2 ")
 ![cours](/images/osoul/osoul-19-3.png.webp "page 3 ")
@@ -308,3 +308,62 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-19-15.png.webp "page 15")
 ![cours](/images/osoul/osoul-19-16.png.webp "page 16")
 ![cours](/images/osoul/osoul-19-17.png.webp "page 17")
+
+### Cours 20 [📹️](https://www.youtube.com/watch?v=TLrL64H5kLw)
+
+![cours](/images/osoul/osoul-20-2.png.webp "page 2 ")
+![cours](/images/osoul/osoul-20-3.png.webp "page 3 ")
+![cours](/images/osoul/osoul-20-4.png.webp "page 4 ")
+![cours](/images/osoul/osoul-20-5.png.webp "page 5 ")
+![cours](/images/osoul/osoul-20-6.png.webp "page 6 ")
+![cours](/images/osoul/osoul-20-7.png.webp "page 7 ")
+![cours](/images/osoul/osoul-20-8.png.webp "page 8 ")
+![cours](/images/osoul/osoul-20-9.png.webp "page 9 ")
+![cours](/images/osoul/osoul-20-10.png.webp "page 10")
+![cours](/images/osoul/osoul-20-11.png.webp "page 11")
+![cours](/images/osoul/osoul-20-12.png.webp "page 12")
+![cours](/images/osoul/osoul-20-13.png.webp "page 13")
+![cours](/images/osoul/osoul-20-14.png.webp "page 14")
+![cours](/images/osoul/osoul-20-15.png.webp "page 15")
+![cours](/images/osoul/osoul-20-16.png.webp "page 16")
+
+### Cours 21 [📹️](https://www.youtube.com/watch?v=93zkrfIgFQw)
+
+![cours](/images/osoul/osoul-21-2.png.webp "page 2 ")
+![cours](/images/osoul/osoul-21-3.png.webp "page 3 ")
+![cours](/images/osoul/osoul-21-4.png.webp "page 4 ")
+![cours](/images/osoul/osoul-21-5.png.webp "page 5 ")
+![cours](/images/osoul/osoul-21-6.png.webp "page 6 ")
+![cours](/images/osoul/osoul-21-7.png.webp "page 7 ")
+![cours](/images/osoul/osoul-21-8.png.webp "page 8 ")
+![cours](/images/osoul/osoul-21-9.png.webp "page 9 ")
+![cours](/images/osoul/osoul-21-10.png.webp "page 10")
+![cours](/images/osoul/osoul-21-11.png.webp "page 11")
+![cours](/images/osoul/osoul-21-12.png.webp "page 12")
+![cours](/images/osoul/osoul-21-13.png.webp "page 13")
+![cours](/images/osoul/osoul-21-14.png.webp "page 14")
+![cours](/images/osoul/osoul-21-15.png.webp "page 15")
+
+### Cours 22 [📹️](https://www.youtube.com/watch?v=BZSNtUOIQ4A)
+
+![cours](/images/osoul/osoul-22-2.png.webp "page 2 ")
+![cours](/images/osoul/osoul-22-3.png.webp "page 3 ")
+![cours](/images/osoul/osoul-22-4.png.webp "page 4 ")
+![cours](/images/osoul/osoul-22-5.png.webp "page 5 ")
+![cours](/images/osoul/osoul-22-6.png.webp "page 6 ")
+![cours](/images/osoul/osoul-22-7.png.webp "page 7 ")
+![cours](/images/osoul/osoul-22-8.png.webp "page 8 ")
+![cours](/images/osoul/osoul-22-9.png.webp "page 9 ")
+![cours](/images/osoul/osoul-22-10.png.webp "page 10")
+![cours](/images/osoul/osoul-22-11.png.webp "page 11")
+![cours](/images/osoul/osoul-22-12.png.webp "page 12")
+![cours](/images/osoul/osoul-22-13.png.webp "page 13")
+![cours](/images/osoul/osoul-22-14.png.webp "page 14")
+![cours](/images/osoul/osoul-22-15.png.webp "page 15")
+![cours](/images/osoul/osoul-22-16.png.webp "page 16")
+![cours](/images/osoul/osoul-22-17.png.webp "page 17")
+![cours](/images/osoul/osoul-22-18.png.webp "page 18")
+![cours](/images/osoul/osoul-22-19.png.webp "page 19")
+![cours](/images/osoul/osoul-22-20.png.webp "page 20")
+![cours](/images/osoul/osoul-22-21.png.webp "page 21")
+![cours](/images/osoul/osoul-22-22.png.webp "page 22")
