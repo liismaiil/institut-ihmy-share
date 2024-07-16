@@ -3,9 +3,9 @@ title: Tahsin al fikri
 pageTitle: Tahsin al fikri- .
 description: Cours about protection about all polyteists ideas .
 ---
-ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
+## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
 
-## Cours 1
+### Cours 1
 ![cours](/images/tahsin/tahsin1-0.png.webp "page 0")
 ![cours](/images/tahsin/tahsin1-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin1-2.png.webp "page 2")
@@ -16,7 +16,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin1-7.png.webp "page 7")
 ![cours](/images/tahsin/tahsin1-8.png.webp "page 8")
 
-## Cours 2
+### Cours 2
 
 ![cours](/images/tahsin/tahsin2-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin2-2.png.webp "page 2")
@@ -25,7 +25,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin2-5.png.webp "page 5")
 
 
-## Cours 3
+### Cours 3
 
 ![cours](/images/tahsin/tahsin3-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin3-2.png.webp "page 2")
@@ -39,7 +39,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin3-10.png.webp "page 10")
 ![cours](/images/tahsin/tahsin3-11.png.webp "page 11")
 
-## Cours 4
+### Cours 4
 
 ![cours](/images/tahsin/tahsin4-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin4-2.png.webp "page 2")
@@ -50,7 +50,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin4-7.png.webp "page 7")
 ![cours](/images/tahsin/tahsin4-8.png.webp "page 8")
 
-## Cours 5
+### Cours 5
 
 ![cours](/images/tahsin/tahsin5-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin5-2.png.webp "page 2")
@@ -69,7 +69,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin5-15.png.webp "page 15")
 ![cours](/images/tahsin/tahsin5-16.png.webp "page 16")
 
-## Cours 6 [📹️](https://youtu.be/Xx6W4WxOZHw 'video')
+### Cours 6 [📹️](https://youtu.be/Xx6W4WxOZHw 'video')
 
 ![cours](/images/tahsin/tahsin6-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin6-2.png.webp "page 2")
@@ -88,7 +88,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin6-15.png.webp "page 15")
 ![cours](/images/tahsin/tahsin6-16.png.webp "page 16")
 
-## Cours 7 [📹️](https://youtu.be/67NfzdM4tho 'video')
+### Cours 7 [📹️](https://youtu.be/67NfzdM4tho 'video')
 
 ![cours](/images/tahsin/tahsin7-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin7-2.png.webp "page 2")
@@ -108,7 +108,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin7-16.png.webp "page 16")
 ![cours](/images/tahsin/tahsin7-17.png.webp "page 17")
 
-## Cours 8 [📹️](https://youtu.be/WpM-uV1MFfQ 'video')
+### Cours 8 [📹️](https://youtu.be/WpM-uV1MFfQ 'video')
 
 ![cours](/images/tahsin/tahsin8-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin8-2.png.webp "page 2")
@@ -129,7 +129,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin8-17.png.webp "page 17")
 ![cours](/images/tahsin/tahsin8-18.png.webp "page 18")
 
-## Cours 9 [📹️](https://youtu.be/ZTmz7t1NEvI 'video')
+### Cours 9 [📹️](https://youtu.be/ZTmz7t1NEvI 'video')
 
 ![cours](/images/tahsin/tahsin-9-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-9-2.png.webp "page 2")
@@ -151,7 +151,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-9-18.png.webp "page 18")
 ![cours](/images/tahsin/tahsin-9-19.png.webp "page 19")
 
-## Cours 10 [📹️](https://youtu.be/aElIVXFRkxk 'video')
+### Cours 10 [📹️](https://youtu.be/aElIVXFRkxk 'video')
 
 ![cours](/images/tahsin/tahsin-10-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-10-2.png.webp "page 2")
@@ -174,7 +174,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-10-19.png.webp "page 19")
 ![cours](/images/tahsin/tahsin-10-20.png.webp "page 20")
 
-## Cours 11 [📹️](https://youtu.be/Y_fO6nd2FN0 'video')
+### Cours 11 [📹️](https://youtu.be/Y_fO6nd2FN0 'video')
 
 ![cours](/images/tahsin/tahsin-11-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-11-2.png.webp "page 2")
@@ -201,7 +201,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-11-23.png.webp "page 23")
 ![cours](/images/tahsin/tahsin-11-24.png.webp "page 24")
 
-## Cours 12 [📹️](https://youtu.be/4QMxy47ehFU 'video')
+### Cours 12 [📹️](https://youtu.be/4QMxy47ehFU 'video')
 
 ![cours](/images/tahsin/tahsin-12-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-12-2.png.webp "page 2")
@@ -222,7 +222,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-12-17.png.webp "page 17")
 ![cours](/images/tahsin/tahsin-12-18.png.webp "page 18")
 
-## Cours 13  [📹️](https://youtu.be/9-MNQDBx3HQ 'video')
+### Cours 13  [📹️](https://youtu.be/9-MNQDBx3HQ 'video')
 
 ![cours](/images/tahsin/tahsin-13-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-13-3.png.webp "page 3")
@@ -242,7 +242,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-13-17.png.webp "page 17")
 ![cours](/images/tahsin/tahsin-13-18.png.webp "page 18")
 
-## Cours 14  [📹️](https://www.youtube.com/watch?v=MoKCld6zIi4 'video')
+### Cours 14  [📹️](https://www.youtube.com/watch?v=MoKCld6zIi4 'video')
 ![cours](/images/tahsin/tahsin-14-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-14-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-14-4.png.webp "page 4")
@@ -264,7 +264,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-14-20.png.webp "page 20")
 ![cours](/images/tahsin/tahsin-14-21.png.webp "page 21")
 
-## Cours 15  [📹️]( https://www.youtube.com/watch?v=gHubdPDx8ac 'video')
+### Cours 15  [📹️]( https://www.youtube.com/watch?v=gHubdPDx8ac 'video')
 ![cours](/images/tahsin/tahsin-15-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-15-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-15-3.png.webp "page 3")
@@ -287,7 +287,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-15-20.png.webp "page 20")
 ![cours](/images/tahsin/tahsin-15-21.png.webp "page 21")
 
-## Cours 16  [📹️](https://youtu.be/AMNfKi3D6gk)
+### Cours 16  [📹️](https://youtu.be/AMNfKi3D6gk)
 ![cours](/images/tahsin/tahsin-16-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-16-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-16-3.png.webp "page 3")
@@ -312,7 +312,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-16-22.png.webp "page 22")
 
 
-## Cours 17  [📹️](https://youtu.be/udc59UNjmzw)
+### Cours 17  [📹️](https://youtu.be/udc59UNjmzw)
 ![cours](/images/tahsin/tahsin-17-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-17-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-17-3.png.webp "page 3")
@@ -334,7 +334,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-17-19.png.webp "page 19")
 ![cours](/images/tahsin/tahsin-17-20.png.webp "page 20")
 
-## Cours 18  [📹️](https://youtu.be/YRFYbQClzgk)
+### Cours 18  [📹️](https://youtu.be/YRFYbQClzgk)
 ![cours](/images/tahsin/tahsin-18-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-18-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-18-3.png.webp "page 3")
@@ -353,7 +353,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-18-16.png.webp "page 16")
 ![cours](/images/tahsin/tahsin-18-17.png.webp "page 17")
 
-## Cours 19  [📹️](https://youtu.be/fLFa-4yPjnk)
+### Cours 19  [📹️](https://youtu.be/fLFa-4yPjnk)
 ![cours](/images/tahsin/tahsin-19-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-19-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-19-3.png.webp "page 3")
@@ -374,7 +374,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-19-18.png.webp "page 18")
 ![cours](/images/tahsin/tahsin-19-19.png.webp "page 19")
 
-## Cours 20  [📹️](https://youtu.be/UBXIDsj2hHU)
+### Cours 20  [📹️](https://youtu.be/UBXIDsj2hHU)
 ![cours](/images/tahsin/tahsin-20-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-20-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-20-4.png.webp "page 4")
@@ -397,7 +397,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-20-21.png.webp "page 21")
 ![cours](/images/tahsin/tahsin-20-22.png.webp "page 22")
 
-## Cours 21  [📹️](https://www.youtube.com/watch?v=8ouH7HyuiqE)
+### Cours 21  [📹️](https://www.youtube.com/watch?v=8ouH7HyuiqE)
 
 ![cours](/images/tahsin/tahsin-21-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-21-2.png.webp "page 2")
@@ -417,3 +417,27 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-21-16.png.webp "page 16")
 ![cours](/images/tahsin/tahsin-21-17.png.webp "page 17")
 ![cours](/images/tahsin/tahsin-21-18.png.webp "page 18")
+
+### Cours 22  [📹️](https://www.youtube.com/watch?v=ueQhoveh4MU)
+
+![cours](/images/tahsin/tahsin-22-2.png.webp "page 2")
+![cours](/images/tahsin/tahsin-22-3.png.webp "page 3")
+![cours](/images/tahsin/tahsin-22-4.png.webp "page 4")
+![cours](/images/tahsin/tahsin-22-5.png.webp "page 5")
+![cours](/images/tahsin/tahsin-22-6.png.webp "page 6")
+![cours](/images/tahsin/tahsin-22-7.png.webp "page 7")
+![cours](/images/tahsin/tahsin-22-8.png.webp "page 8")
+![cours](/images/tahsin/tahsin-22-9.png.webp "page 9")
+![cours](/images/tahsin/tahsin-22-10.png.webp "page 10")
+![cours](/images/tahsin/tahsin-22-11.png.webp "page 11")
+![cours](/images/tahsin/tahsin-22-12.png.webp "page 12")
+![cours](/images/tahsin/tahsin-22-13.png.webp "page 13")
+![cours](/images/tahsin/tahsin-22-14.png.webp "page 14")
+![cours](/images/tahsin/tahsin-22-15.png.webp "page 15")
+![cours](/images/tahsin/tahsin-22-16.png.webp "page 16")
+![cours](/images/tahsin/tahsin-22-17.png.webp "page 17")
+![cours](/images/tahsin/tahsin-22-18.png.webp "page 18")
+![cours](/images/tahsin/tahsin-22-19.png.webp "page 19")
+![cours](/images/tahsin/tahsin-22-20.png.webp "page 20")
+![cours](/images/tahsin/tahsin-22-21.png.webp "page 21")
+![cours](/images/tahsin/tahsin-22-22.png.webp "page 22")
