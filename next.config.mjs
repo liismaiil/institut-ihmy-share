@@ -3,7 +3,7 @@ import withMarkdoc from '@markdoc/next.js';
 import withSearch from './src/markdoc/search.mjs';
  const withPWAMiddleware = withPWA({
   dest: "public",
-  disable: process.env.NODE_ENV === "development",
+  enable: process.env.NODE_ENV === "development",
    register: true,
   //
 });
