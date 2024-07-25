@@ -3,9 +3,9 @@ title: Annahwo
 pageTitle: Annahwo- .
 description: Arabic gramar.
 ---
-ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
+## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
 
-## Cours 1 
+### Cours 1 
 
 ![cours](/images/nahwo/nahwo1-1.png.webp  "nahwo1-1")
 ![cours](/images/nahwo/nahwo1-2.png.webp  "nahwo1-2")
@@ -21,7 +21,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo1-12.png.webp  "nahwo1-12")
 ![cours](/images/nahwo/nahwo1-13.png.webp  "nahwo1-13")
 ![cours](/images/nahwo/nahwo1-14.png.webp  "nahwo1-14")
-## Cours 2
+### Cours 2
 ![cours](/images/nahwo/nahwo2-2.png.webp "nahwo2-2")
 ![cours](/images/nahwo/nahwo2-3.png.webp "nahwo2-3")
 ![cours](/images/nahwo/nahwo2-4.png.webp "nahwo2-4")
@@ -35,7 +35,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo2-12.png.webp " nahwo2-12")
 ![cours](/images/nahwo/nahwo2-13.png.webp " nahwo2-13")
 ![cours](/images/nahwo/nahwo2-14.png.webp " nahwo2-14")
-## Cours 3
+### Cours 3
 ![cours](/images/nahwo/nahwo3-2.png.webp "nahwo3-2")
 ![cours](/images/nahwo/nahwo3-3.png.webp "nahwo3-3")
 ![cours](/images/nahwo/nahwo3-4.png.webp "nahwo3-4")
@@ -50,7 +50,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo3-13.png.webp  nahwo3-13")
 ![cours](/images/nahwo/nahwo3-14.png.webp  nahwo3-14")
 ![cours](/images/nahwo/nahwo3-15.png.webp  nahwo3-15")
-## Cours 4
+### Cours 4
 ![cours](/images/nahwo/nahwo4-2.png.webp "nahwo4-2")
 ![cours](/images/nahwo/nahwo4-3.png.webp "nahwo4-3")
 ![cours](/images/nahwo/nahwo4-4.png.webp "nahwo4-4")
@@ -62,7 +62,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo4-10.png.webp "nahwo4-10")
 ![cours](/images/nahwo/nahwo4-11.png.webp "nahwo4-11")
 ![cours](/images/nahwo/nahwo4-12.png.webp  "nahwo4-12")
-## Cours 5
+### Cours 5
 ![cours](/images/nahwo/nahwo5-2.png.webp "nahwo5-2")
 ![cours](/images/nahwo/nahwo5-3.png.webp "nahwo5-3")
 ![cours](/images/nahwo/nahwo5-4.png.webp "nahwo5-4")
@@ -76,7 +76,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo5-12.png.webp "nahwo5-12")
 ![cours](/images/nahwo/nahwo5-13.png.webp "nahwo5-13")
 
-## Cours 6   [📹️](https://www.youtube.com/watch?v=A-uqiIA6XvU )
+### Cours 6   [📹️](https://www.youtube.com/watch?v=A-uqiIA6XvU )
 ![cours](/images/nahwo/nahwo6-2.png.webp "nahwo6-2")
 ![cours](/images/nahwo/nahwo6-3.png.webp "nahwo6-3")
 ![cours](/images/nahwo/nahwo6-4.png.webp "nahwo6-4")
@@ -89,7 +89,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo6-11.png.webp "nahwo6-11")
 ![cours](/images/nahwo/nahwo6-12.png.webp "nahwo6-12")
 ![cours](/images/nahwo/nahwo6-13.png.webp "nahwo6-13")
-## Cours 7  [📹️](https://www.youtube.com/watch?v=9L6FNxm-Vdc )
+### Cours 7  [📹️](https://www.youtube.com/watch?v=9L6FNxm-Vdc )
 ![cours](/images/nahwo/nahwo7-2.png.webp "nahwo7-2")
 ![cours](/images/nahwo/nahwo7-3.png.webp "nahwo7-3")
 ![cours](/images/nahwo/nahwo7-4.png.webp "nahwo7-4")
@@ -106,7 +106,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo7-15.png.webp "nahwo7-15")
 ![cours](/images/nahwo/nahwo7-16.png.webp "nahwo7-16")
 ![cours](/images/nahwo/nahwo7-17.png.webp "nahwo7-17")
-## Cours 8 [📹️](https://www.youtube.com/watch?v=g32T7JqmEJE )
+### Cours 8 [📹️](https://www.youtube.com/watch?v=g32T7JqmEJE )
 
 ![cours](/images/nahwo/nahwo-8-2.png.webp "nahwo-8-2")
 ![cours](/images/nahwo/nahwo-8-3.png.webp "nahwo-8-3")
@@ -124,7 +124,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-8-15.png.webp "nahwo-8-15")
 ![cours](/images/nahwo/nahwo-8-16.png.webp "nahwo-8-16")
 ![cours](/images/nahwo/nahwo-8-17.png.webp "nahwo-8-17")
-## Cours 9  [📹️](https://www.youtube.com/watch?v=ttkjWTRCe1U )
+### Cours 9  [📹️](https://www.youtube.com/watch?v=ttkjWTRCe1U )
 ![cours](/images/nahwo/nahwo-9-2.png.webp "nahwo-9-2")
 ![cours](/images/nahwo/nahwo-9-3.png.webp "nahwo-9-3")
 ![cours](/images/nahwo/nahwo-9-4.png.webp "nahwo-9-4")
@@ -142,7 +142,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-9-16.png.webp "nahwo-9-16")
 ![cours](/images/nahwo/nahwo-9-17.png.webp "nahwo-9-17")
 ![cours](/images/nahwo/nahwo-9-18.png.webp "nahwo-9-18")
-## Cours 10  [📹️](https://www.youtube.com/watch?v=FSdzgpOQmaw )
+### Cours 10  [📹️](https://www.youtube.com/watch?v=FSdzgpOQmaw )
 ![cours](/images/nahwo/nahwo-10-2.png.webp "nahwo-10-2")
 ![cours](/images/nahwo/nahwo-10-3.png.webp "nahwo-10-3")
 ![cours](/images/nahwo/nahwo-10-4.png.webp "nahwo-10-4")
@@ -162,7 +162,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-10-18.png.webp "nahwo-10-18")
 ![cours](/images/nahwo/nahwo-10-19.png.webp "nahwo-10-19")
 ![cours](/images/nahwo/nahwo-10-20.png.webp "nahwo-10-20")
-## Cours 11  [📹️](https://www.youtube.com/watch?v=f1vxGcrbCq4 )
+### Cours 11  [📹️](https://www.youtube.com/watch?v=f1vxGcrbCq4 )
 ![cours](/images/nahwo/nahwo-11-2.png.webp "nahwo-11-2")
 ![cours](/images/nahwo/nahwo-11-3.png.webp "nahwo-11-3")
 ![cours](/images/nahwo/nahwo-11-4.png.webp "nahwo-11-4")
@@ -175,7 +175,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-11-11.png.webp "nahwo-11-11")
 ![cours](/images/nahwo/nahwo-11-12.png.webp "nahwo-11-12")
 ![cours](/images/nahwo/nahwo-11-13.png.webp "nahwo-11-13")
-## Cours 12 [📹️](https://www.youtube.com/watch?v=6BOHfccbQas )
+### Cours 12 [📹️](https://www.youtube.com/watch?v=6BOHfccbQas )
 ![cours](/images/nahwo/nahwo-12-2.png.webp "nahwo-12-2")
 ![cours](/images/nahwo/nahwo-12-3.png.webp "nahwo-12-3")
 ![cours](/images/nahwo/nahwo-12-4.png.webp "nahwo-12-4")
@@ -190,7 +190,9 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-12-13.png.webp "nahwo-12-13")
 ![cours](/images/nahwo/nahwo-12-14.png.webp "nahwo-12-14")
 ![cours](/images/nahwo/nahwo-12-15.png.webp "nahwo-12-15")
-## Cours 13 [📹️](https://www.youtube.com/watch?v=2RVObbGs4GU )
+
+### Cours 13 [📹️](https://www.youtube.com/watch?v=2RVObbGs4GU )
+
 ![cours](/images/nahwo/nahwo-13-2.png.webp "nahwo-13-2")
 ![cours](/images/nahwo/nahwo-13-3.png.webp "nahwo-13-3")
 ![cours](/images/nahwo/nahwo-13-4.png.webp "nahwo-13-4")
@@ -203,7 +205,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-13-11.png.webp "nahwo-13-11")
 ![cours](/images/nahwo/nahwo-13-12.png.webp "nahwo-13-12")
 
-## Cours 14 [📹️](https://www.youtube.com/watch?v=62_j7QmMkUM )
+### Cours 14 [📹️](https://www.youtube.com/watch?v=62_j7QmMkUM )
 ![cours](/images/nahwo/nahwo-14-2.png.webp "nahwo-14-2")
 ![cours](/images/nahwo/nahwo-14-3.png.webp "nahwo-14-3")
 ![cours](/images/nahwo/nahwo-14-4.png.webp "nahwo-14-4")
@@ -222,9 +224,9 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-14-17.png.webp "nahwo-14-17")
 ![cours](/images/nahwo/nahwo-14-18.png.webp "nahwo-14-18")
 
-## revision  [📹️](https://www.youtube.com/watch?v=zTBaOjtNSo4 )
+### revision  [📹️](https://www.youtube.com/watch?v=zTBaOjtNSo4 )
 
-## Cours 15 [📹️]( https://www.youtube.com/watch?v=ZZ8suIwbhgI )
+### Cours 15 [📹️]( https://www.youtube.com/watch?v=ZZ8suIwbhgI )
 ![cours](/images/nahwo/nahwo-15-2.png.webp "nahwo-15-2")
 ![cours](/images/nahwo/nahwo-15-3.png.webp "nahwo-15-3")
 ![cours](/images/nahwo/nahwo-15-4.png.webp "nahwo-15-4")
@@ -235,7 +237,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-15-9.png.webp "nahwo-15-9")
 ![cours](/images/nahwo/nahwo-15-10.png.webp "nahwo-15-10")
 
-## Cours 16 [📹️]( https://www.youtube.com/watch?v=xti_GviLw_U )
+### Cours 16 [📹️]( https://www.youtube.com/watch?v=xti_GviLw_U )
 ![cours](/images/nahwo/nahwo-16-2.png.webp "nahwo-16-2")
 ![cours](/images/nahwo/nahwo-16-3.png.webp "nahwo-16-3")
 ![cours](/images/nahwo/nahwo-16-4.png.webp "nahwo-16-4")
@@ -252,7 +254,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-16-15.png.webp "nahwo-16-15")
 ![cours](/images/nahwo/nahwo-16-16.png.webp "nahwo-16-16")
 
-## Cours 17 [📹️](https://www.youtube.com/watch?v=kBtCESVI7_U )
+### Cours 17 [📹️](https://www.youtube.com/watch?v=kBtCESVI7_U )
 ![cours](/images/nahwo/nahwo-17-2.png.webp "nahwo-17-2")
 ![cours](/images/nahwo/nahwo-17-3.png.webp "nahwo-17-3")
 ![cours](/images/nahwo/nahwo-17-4.png.webp "nahwo-17-4")
@@ -266,7 +268,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-17-12.png.webp "nahwo-17-12")
 ![cours](/images/nahwo/nahwo-17-13.png.webp "nahwo-17-13")
 
-## Cours 18 [📹️](https://www.youtube.com/watch?v=lRVV1HZwx6A)
+### Cours 18 [📹️](https://www.youtube.com/watch?v=lRVV1HZwx6A)
 ![cours](/images/nahwo/nahwo-18-2.png.webp "nahwo-18-2")
 ![cours](/images/nahwo/nahwo-18-3.png.webp "nahwo-18-3")
 ![cours](/images/nahwo/nahwo-18-4.png.webp "nahwo-18-4")
@@ -284,7 +286,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-18-16.png.webp "nahwo-18-16")
 ![cours](/images/nahwo/nahwo-18-17.png.webp "nahwo-18-17")
 
-## Cours 19 [📹️](https://www.youtube.com/watch?v=cv90-aBMRmo)
+### Cours 19 [📹️](https://www.youtube.com/watch?v=cv90-aBMRmo)
 ![cours](/images/nahwo/nahwo-19-2.png.webp "nahwo-19-2")
 ![cours](/images/nahwo/nahwo-19-3.png.webp "nahwo-19-3")
 ![cours](/images/nahwo/nahwo-19-4.png.webp "nahwo-19-4")
@@ -300,7 +302,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-19-14.png.webp "nahwo-19-14 ")
 ![cours](/images/nahwo/nahwo-19-15.png.webp "nahwo-19-15 ")
 
-## Cours 20 [📹️](https://youtu.be/b0c-mIWKtZY)
+### Cours 20 [📹️](https://youtu.be/b0c-mIWKtZY)
 ![cours](/images/nahwo/nahwo-20-2.png.webp "page 2")
 ![cours](/images/nahwo/nahwo-20-3.png.webp "page 3")
 ![cours](/images/nahwo/nahwo-20-4.png.webp "page 4")
@@ -318,7 +320,7 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-20-16.png.webp "page 16 ")
 ![cours](/images/nahwo/nahwo-20-17.png.webp "page 17 ")
 
-## Cours 21 [📹️](https://youtu.be/7fPk56RPTnQ)
+### Cours 21 [📹️](https://youtu.be/7fPk56RPTnQ)
 ![cours](/images/nahwo/nahwo-21-2.png.webp "page 2")
 ![cours](/images/nahwo/nahwo-21-3.png.webp "page 3")
 ![cours](/images/nahwo/nahwo-21-4.png.webp "page 4")
@@ -387,3 +389,21 @@ description: Arabic gramar.
 ![cours](/images/nahwo/nahwo-24-15.png.webp "page 15 ")
 ![cours](/images/nahwo/nahwo-24-16.png.webp "page 16 ")
 ![cours](/images/nahwo/nahwo-24-17.png.webp "page 17 ")
+
+### Cours 25 [📹️](https://www.youtube.com/watch?v=lE3os7jatDU)
+
+![cours](/images/nahwo/nahwo-25-2.png.webp "page 2")
+![cours](/images/nahwo/nahwo-25-3.png.webp "page 3")
+![cours](/images/nahwo/nahwo-25-4.png.webp "page 4")
+![cours](/images/nahwo/nahwo-25-5.png.webp "page 5")
+![cours](/images/nahwo/nahwo-25-6.png.webp "page 6")
+![cours](/images/nahwo/nahwo-25-7.png.webp "page 7")
+![cours](/images/nahwo/nahwo-25-8.png.webp "page 8")
+![cours](/images/nahwo/nahwo-25-9.png.webp "page 9")
+![cours](/images/nahwo/nahwo-25-10.png.webp "page 10 ")
+![cours](/images/nahwo/nahwo-25-11.png.webp "page 11 ")
+![cours](/images/nahwo/nahwo-25-12.png.webp "page 12 ")
+![cours](/images/nahwo/nahwo-25-13.png.webp "page 13 ")
+![cours](/images/nahwo/nahwo-25-14.png.webp "page 14 ")
+![cours](/images/nahwo/nahwo-25-15.png.webp "page 15 ")
+![cours](/images/nahwo/nahwo-25-16.png.webp "page 16 ")

@@ -5,7 +5,7 @@ description: al fikh almaliki matn Al3izziya
 ---
 ## ℹ️ [mydars](https://mydars.space/ 'mydars institut')
 
-### 33} cours  20 : Matn Al3izziya intro - les eaux - les entités pures et impures
+### 33 } cours 20 : Matn Al3izziya intro - les eaux - les entités pures et impures
 
 ![cours](/images/my/fikh-maliki/third/matn-Al3izziya-1-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/third/matn-Al3izziya-1-4.png.webp  "page 4")
@@ -33,11 +33,10 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third/dalil-al3izia-1-0.png.webp  "page 0")
 
 
-### 34} cours 21: Matn Al3izziya cours 2 Les entités impures - 
+### 34 } cours 21 : Matn Al3izziya cours 2 Les entités impures 
 #### Nettoyage des soillures - Le Wudu
 
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-2-3.png.webp  "page 3")
-![cours](/images/my/fikh-maliki/third/matn-al3izia-2-4.png.webp  "page 4")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-2-5.png.webp  "page 5")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-2-6.png.webp  "page 6")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-2-7.png.webp  "page 7")
@@ -54,7 +53,7 @@ description: al fikh almaliki matn Al3izziya
 
 ### dalil 21
 ![cours](/images/my/fikh-maliki/third/dalil-al3izia-2-1.png.webp  "page 1")
-![cours](/images/my/fikh-maliki/third/dalil-al3izia-2-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third/dalil-al3izia-2-3.png.webp  "page 3")
+![cours](/images/my/fikh-maliki/third/dalil-al3izia-2-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third/dalil-al3izia-2-4.png.webp  "page 4")
 ![cours](/images/my/fikh-maliki/third/dalil-al3izia-2-5.png.webp  "page 0")
