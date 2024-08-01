@@ -15,5 +15,5 @@ description: Courses shared from ihkam from dz and mydars from fr .
 >
 > * [fikh-maliki-first](./docs/fikh-maliki-first "fikh-maliki-first")
 > * [fikh-maliki-second](./docs/fikh-maliki-second "fikh-maliki-second")
-> * [fikh-maliki-second](./docs/fikh-maliki-third "fikh-maliki-third")
+> * [fikh-maliki-third](./docs/fikh-maliki-third "fikh-maliki-third")
 > * [hadith](./docs/hadith "hadith")
