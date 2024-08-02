@@ -443,7 +443,6 @@ description: Pophete hadiths.
 ###  Cours 35  Le livre des propos édifiants, 
 ####  (suite 1 et 2)
 
-
 ![cours](/images/my/al-hadith/hadith-35-0.png.webp "page 0")
 ![cours](/images/my/al-hadith/hadith-35-1.png.webp "page 1")
 ![cours](/images/my/al-hadith/hadith-35-2.png.webp "page 2")
@@ -456,3 +455,21 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-35-s-3.png.webp "page 9")
 ![cours](/images/my/al-hadith/hadith-35-s-4.png.webp "page 10")
 ![cours](/images/my/al-hadith/hadith-35-s-5.png.webp "page 11")
+
+###  Cours 36   كتاب أشراط الساعة
+#### Le livre des signes de la fin des temps
+
+![cours](/images/my/al-hadith/hadith-36-0.png.webp "page 0")
+![cours](/images/my/al-hadith/hadith-36-1.png.webp "page 1")
+![cours](/images/my/al-hadith/hadith-36-2.png.webp "page 2")
+![cours](/images/my/al-hadith/hadith-36-3.png.webp "page 3")
+![cours](/images/my/al-hadith/hadith-36-4.png.webp "page 4")
+![cours](/images/my/al-hadith/hadith-36-5.png.webp "page 5")
+![cours](/images/my/al-hadith/hadith-36-6.png.webp "page 6")
+![cours](/images/my/al-hadith/hadith-36-7.png.webp "page 7")
+![cours](/images/my/al-hadith/hadith-36-8.png.webp "page 8")
+![cours](/images/my/al-hadith/hadith-36-9.png.webp "page 9")
+![cours](/images/my/al-hadith/hadith-36-10.png.webp "page 10")
+![cours](/images/my/al-hadith/hadith-36-11.png.webp "page 11")
+![cours](/images/my/al-hadith/hadith-36-12.png.webp "page 12")
+![cours](/images/my/al-hadith/hadith-36-13.png.webp "page 13")
