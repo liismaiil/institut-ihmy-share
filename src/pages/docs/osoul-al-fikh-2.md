@@ -230,3 +230,18 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-26-17.png.webp "page 17")
 ![cours](/images/osoul/osoul-26-18.png.webp "page 18")
 ![cours](/images/osoul/osoul-26-19.png.webp "page 19")
+
+### Cours 27 [📹️](https://www.youtube.com/watch?v=e5KL2ZeXqw4)
+
+![cours](/images/osoul/osoul-27-2.png.webp "page 2 ")
+![cours](/images/osoul/osoul-27-3.png.webp "page 3 ")
+![cours](/images/osoul/osoul-27-4.png.webp "page 4 ")
+![cours](/images/osoul/osoul-27-5.png.webp "page 5 ")
+![cours](/images/osoul/osoul-27-6.png.webp "page 6 ")
+![cours](/images/osoul/osoul-27-7.png.webp "page 7 ")
+![cours](/images/osoul/osoul-27-8.png.webp "page 8 ")
+![cours](/images/osoul/osoul-27-9.png.webp "page 9 ")
+![cours](/images/osoul/osoul-27-10.png.webp "page 10")
+![cours](/images/osoul/osoul-27-11.png.webp "page 11")
+![cours](/images/osoul/osoul-27-12.png.webp "page 12")
+![cours](/images/osoul/osoul-27-13.png.webp "page 13")
