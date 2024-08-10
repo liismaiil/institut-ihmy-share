@@ -7,7 +7,7 @@ description: Courses shared from ihkam from dz and mydars from fr .
 ## ihkam documents 
 
 > * [3akida-1](./docs/3akida )
-> * [3akida-2](./docs/3akida-s )
+> * [3akida-2](./docs/3akida-2 )
 > * [tahsin-al-fikri-1](./docs/tahsin-al-fikri )
 > * [tahsin-al-fikri-2](./docs/tahsin-al-fikri-2 )
 > * [anahwo-1](./docs/anahwo )
