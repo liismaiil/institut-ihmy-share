@@ -21,4 +21,4 @@ description: Courses shared from ihkam from dz and mydars from fr .
 > * [fikh-maliki-second](./docs/fikh-maliki-second "fikh-maliki-second")
 > * [fikh-maliki-third](./docs/fikh-maliki-third "fikh-maliki-third")
 > * [hadith](./docs/hadith "hadith")
-> * [hadith-2](./docs/hadith "hadith-2")
+> * [hadith-2](./docs/hadith-2 "hadith-2")
