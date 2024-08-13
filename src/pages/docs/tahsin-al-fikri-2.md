@@ -6,7 +6,6 @@ description: Cours about protection about all polyteists ideas .
 ## ℹ️ [ihkam](https://ihkaam.space/ 'ihkam institut link')
 
 ### Cours 15  [📹️]( https://www.youtube.com/watch?v=gHubdPDx8ac )
-![cours](/images/tahsin/tahsin-15-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-15-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-15-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-15-4.png.webp "page 4")
@@ -29,7 +28,6 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-15-21.png.webp "page 21")
 
 ### Cours 16  [📹️](https://youtu.be/AMNfKi3D6gk)
-![cours](/images/tahsin/tahsin-16-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-16-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-16-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-16-4.png.webp "page 4")
@@ -54,7 +52,6 @@ description: Cours about protection about all polyteists ideas .
 
 
 ### Cours 17  [📹️](https://youtu.be/udc59UNjmzw)
-![cours](/images/tahsin/tahsin-17-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-17-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-17-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-17-4.png.webp "page 4")
@@ -76,7 +73,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-17-20.png.webp "page 20")
 
 ### Cours 18  [📹️](https://youtu.be/YRFYbQClzgk)
-![cours](/images/tahsin/tahsin-18-1.png.webp "page 1")
+
 ![cours](/images/tahsin/tahsin-18-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-18-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-18-4.png.webp "page 4")
@@ -95,7 +92,7 @@ description: Cours about protection about all polyteists ideas .
 ![cours](/images/tahsin/tahsin-18-17.png.webp "page 17")
 
 ### Cours 19  [📹️](https://youtu.be/fLFa-4yPjnk)
-![cours](/images/tahsin/tahsin-19-1.png.webp "page 1")
+
 ![cours](/images/tahsin/tahsin-19-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-19-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-19-4.png.webp "page 4")
@@ -140,7 +137,6 @@ description: Cours about protection about all polyteists ideas .
 
 ### Cours 21  [📹️](https://www.youtube.com/watch?v=8ouH7HyuiqE)
 
-![cours](/images/tahsin/tahsin-21-1.png.webp "page 1")
 ![cours](/images/tahsin/tahsin-21-2.png.webp "page 2")
 ![cours](/images/tahsin/tahsin-21-3.png.webp "page 3")
 ![cours](/images/tahsin/tahsin-21-4.png.webp "page 4")
