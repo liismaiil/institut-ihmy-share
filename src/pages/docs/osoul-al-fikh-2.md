@@ -189,6 +189,7 @@ description: Cours about foundation of juridiction some rules.
 ![cours](/images/osoul/osoul-24-15.png.webp "page 15")
 ![cours](/images/osoul/osoul-24-16.png.webp "page 16")
 ![cours](/images/osoul/osoul-24-17.png.webp "page 17")
+#### kholasa
 ![cours](/images/osoul/osoul-24-9.png.webp "page 9 ")
 ![cours](/images/osoul/osoul-24-12.png.webp "page 12")
 ![cours](/images/osoul/osoul-24-14.png.webp "page 14")
