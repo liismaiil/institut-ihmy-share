@@ -283,3 +283,29 @@ description: Pophete hadiths.
 ![cours](/images/my/al-hadith/hadith-36-11.png.webp "page 11")
 ![cours](/images/my/al-hadith/hadith-36-12.png.webp "page 12")
 ![cours](/images/my/al-hadith/hadith-36-13.png.webp "page 13")
+
+
+###  Cours 37   كتاب أشراط الساعة
+#### Le livre des signes de la fin des temps 'suite'
+
+![cours](/images/my/al-hadith/hadith-37-0.png.webp "page 0")
+![cours](/images/my/al-hadith/hadith-37-1.png.webp "page 1")
+![cours](/images/my/al-hadith/hadith-37-2.png.webp "page 2")
+![cours](/images/my/al-hadith/hadith-37-3.png.webp "page 3")
+![cours](/images/my/al-hadith/hadith-37-4.png.webp "page 4")
+![cours](/images/my/al-hadith/hadith-37-5.png.webp "page 5")
+![cours](/images/my/al-hadith/hadith-37-6.png.webp "page 6")
+![cours](/images/my/al-hadith/hadith-37-7.png.webp "page 7")
+![cours](/images/my/al-hadith/hadith-37-8.png.webp "page 8")
+![cours](/images/my/al-hadith/hadith-37-9.png.webp "page 9")
+![cours](/images/my/al-hadith/hadith-37-10.png.webp "page 10")
+
+###  Cours 38 باب الإيمان بالقدر 
+#### Chapitre de la croyance au destin
+
+![cours](/images/my/al-hadith/hadith-38-0.png.webp "page 0")
+![cours](/images/my/al-hadith/hadith-38-1.png.webp "page 1")
+![cours](/images/my/al-hadith/hadith-38-2.png.webp "page 2")
+![cours](/images/my/al-hadith/hadith-38-3.png.webp "page 3")
+![cours](/images/my/al-hadith/hadith-38-4.png.webp "page 4")
+![cours](/images/my/al-hadith/hadith-38-5.png.webp "page 5")
