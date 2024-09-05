@@ -356,7 +356,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-12--1.png.webp  "dalil  12")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-12--2.png.webp  "dalil  12")
 
-### 26 } 13 :  Matn Ibn Ashir - Le jeûne - partie 1- 
+### 26 } 13 :   Le jeûne - partie 1- 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-0.png.webp  "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-1.png.webp  "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-2.png.webp  "cours  13")
@@ -384,7 +384,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-10.png.webp  "dalil  21")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-11.png.webp  "dalil  21")
 
-### 27 } 14 :  Matn Ibn Ashir - Le jeûne - partie 2- 
+### 27 } 14 : Le jeûne - partie 2- 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-0.png.webp  "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-1.png.webp  "cours  13")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-2.png.webp  "cours  13")
@@ -409,7 +409,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-4.png.webp  "dalil  22")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-22-5.png.webp  "dalil  22")
 
-### 28} cours  15 : Matn Ibn Ashir Le pèlerinage (Partie 1)
+### 28} 15 : Le pèlerinage (Partie 1)
 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-15-p1-1.png.webp  "cours  15")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-15-p1-2.png.webp  "cours  15")
@@ -437,7 +437,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-15-p1-6.png.webp  "dalil  15")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-15-p1-7.png.webp  "dalil  15")
 
-### 29} cours 16 : Matn Ibn Ashir Le pèlerinage (Partie 2)
+### 29} 16 : Le pèlerinage (Partie 2)
 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-16-p2-1.png.webp  "page 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-16-p2-2.png.webp  "page 2")
@@ -475,7 +475,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-16-p2-9.png.webp  "page 9")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-16-p2-10.png.webp  "page 10")
 
-### 30} cours  17 : Matn Ibn Ashir Le pèlerinage (Partie 3)
+### 30} 17 :  Le pèlerinage (Partie 3)
 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-17-p3-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-17-p3-4.png.webp  "page 4")
@@ -506,7 +506,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-17-p3-7.png.webp  "page 7")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-17-p3-8.png.webp  "page 8")
 
-### 31} cours 18 : Matn Ibn Ashir Le pèlerinage (Partie 4)
+### 31} 18 :  Le pèlerinage (Partie 4)
 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-18-p4-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-18-p4-4.png.webp  "page 4")
@@ -539,7 +539,7 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-p4-8.png.webp  "page 8")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-18-p4-9.png.webp  "page 9")
 
-### 32} cours 19 : Matn Ibn Ashir Le cheminement spirituel
+### 32} 19 :  Le cheminement spirituel
 
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-19-4.png.webp  "page 4")
