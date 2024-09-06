@@ -304,7 +304,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-2.png.webp  "dalil 2")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-3.png.webp  "dalil 3")
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-4.png.webp  "dalil 4")
-![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-10-p1-5.png.webp  "dalil 5")
 
 ### 24} 11 : La Zakat (Partie 2)
 
