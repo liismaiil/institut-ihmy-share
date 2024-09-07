@@ -35,7 +35,7 @@ description: al fikh almaliki matn Al3izziya
 
 
 ### 34 } cours 21 : 2° Le Wudu ,Les entités impures  
-#### Nettoyage des soillures
+#### Nettoyage des souillures
 
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-2-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-2-5.png.webp  "page 5")
@@ -61,8 +61,8 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third/dalil-al3izia-2-5.png.webp  "page 5")
 
 
-### 35 } cours 22 : 3° Les bienséances des besoinsnaturels   
-####  et des toilettes intimes
+### 35 } cours 22 : 3° Les bienséances des besoins naturels   
+####  Les toilettes intimes
 
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-3-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-3-5.png.webp  "page 5")
@@ -90,7 +90,7 @@ description: al fikh almaliki matn Al3izziya
 
 
 ### 36 } cours 23 : 4° Les annulatifs du Wudu 
-####  ,les ablutions majeures
+####  Les ablutions majeures
 
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-3izia-4-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-3izia-4-5.png.webp  "page 5")
