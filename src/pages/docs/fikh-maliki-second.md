@@ -9,7 +9,6 @@ description: al fikh almaliki matn Ibn 3achir
  
 ### 15 } 2 :Bases de jurisprudence 
 
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-3.png.webp  "cours 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-2-4.png.webp  "cours 4")
@@ -38,7 +37,6 @@ description: al fikh almaliki matn Ibn 3achir
 
 ### 16 } 3 :Bases de jurisprudence 
  
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-3.png.webp  "cours 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-3-4.png.webp  "cours 4")
@@ -72,7 +70,6 @@ description: al fikh almaliki matn Ibn 3achir
 
 ### 17 } 4 : les annulatifs des ablutions
  
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-3.png.webp  "cours 3")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-4-4.png.webp  "cours 4")
@@ -113,7 +110,6 @@ description: al fikh almaliki matn Ibn 3achir
 
 ### 18 } 5: les ablutions sèches (suite)
  
-![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-3.png.webp  "cours 3")
 ![cours](/images/my/fikh-maliki/second/matn-ibn-3achir-5-4.png.webp  "cours 4")
@@ -156,7 +152,6 @@ description: al fikh almaliki matn Ibn 3achir
 
 ### 19 } 6 : Adhen et réduction des prières - 
 
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-0.png.webp  "cours 0")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-6-3.png.webp  "cours 3")
@@ -187,7 +182,6 @@ description: al fikh almaliki matn Ibn 3achir
 
 ### 20} 7 : Adhen et réduction des prières - 
 
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-0.png.webp  "cours 0")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-7-3.png.webp  "cours 3")
@@ -219,7 +213,6 @@ description: al fikh almaliki matn Ibn 3achir
 
 ### 21} 8 : Les prosternations de distraction
 
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-0.png.webp  "cours 0")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-8-3.png.webp  "cours 3")
@@ -249,7 +242,6 @@ description: al fikh almaliki matn Ibn 3achir
 
 ### 22} 9 : La prière du vendredi – La prière en groupe
 
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-0.png.webp  "cours 0")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-9-3.png.webp  "cours 3")
@@ -279,7 +271,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir9-4.png.webp  "dalil  4")
 ### 23} 10 : La Zakat (Partie 1)
 
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-0.png.webp  "cours 0")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p1-3.png.webp  "cours 3")
@@ -307,7 +298,6 @@ description: al fikh almaliki matn Ibn 3achir
 
 ### 24} 11 : La Zakat (Partie 2)
 
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p2-0.png.webp  "cours 0")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p2-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p2-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-10-p2-3.png.webp  "cours 3")
@@ -333,7 +323,6 @@ description: al fikh almaliki matn Ibn 3achir
 
 ### 25} 12 : La Zakat (Partie 3)
 
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-0.png.webp  "cours 0")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-12-3.png.webp  "cours 3")
@@ -354,7 +343,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-12--2.png.webp  "dalil  12")
 
 ### 26 } 13 :   Le jeûne - partie 1- 
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-0.png.webp  "cours 0")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-13-1-3.png.webp  "cours 3")
@@ -382,7 +370,6 @@ description: al fikh almaliki matn Ibn 3achir
 ![cours](/images/my/fikh-maliki/second/dalil-Ibn-3achir-21-1-11.png.webp  "dalil 11")
 
 ### 27 } 14 : Le jeûne - partie 2- 
-![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-0.png.webp  "cours 0")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-1.png.webp  "cours 1")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-2.png.webp  "cours 2")
 ![cours](/images/my/fikh-maliki/second/matn-Ibn-3achir-14-3.png.webp  "cours 3")
