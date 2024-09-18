@@ -174,6 +174,7 @@ description: al fikh almaliki matn Al3izziya
 
 ### 39 }cours 26 : 8° L’essuyage des chaussons    
 
+![cours](/images/my/fikh-maliki/third/matn-al3izia-8-2.png.webp  "page 2")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-8-3.png.webp  "page 3")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-8-5.png.webp  "page 5")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-8-6.png.webp  "page 6")
@@ -182,4 +183,3 @@ description: al fikh almaliki matn Al3izziya
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-8-9.png.webp  "page 9")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-8-10.png.webp  "page 10")
 ![cours](/images/my/fikh-maliki/third/matn-al3izia-8-11.png.webp  "page 11")
-![cours](/images/my/fikh-maliki/third/matn-al3izia-8-12.png.webp  "page 12")
